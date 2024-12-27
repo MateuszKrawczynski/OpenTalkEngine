@@ -1,0 +1,3405 @@
+[
+    {
+        "id": 0,
+        "tokens": [
+            "hello",
+            "hi",
+            "hey",
+            "greetings",
+            "good",
+            "day",
+            "what's",
+            "up"
+        ],
+        "response": "Hello! I am OpenTalkEngine, your friendly assistant. How can I help you today?"
+    },
+    {
+        "id": 1,
+        "tokens": [
+            "bye",
+            "goodbye",
+            "see",
+            "you",
+            "later",
+            "take",
+            "care",
+            "farewell"
+        ],
+        "response": "Goodbye! Let me know if you need my help again. Take care!"
+    },
+    {
+        "id": 2,
+        "tokens": [
+            "how",
+            "are",
+            "you",
+            "what's",
+            "up",
+            "how's",
+            "it",
+            "going",
+            "how",
+            "do",
+            "you",
+            "feel"
+        ],
+        "response": "I'm an AI, so I don't have feelings, but I'm ready to assist you! How can I help?"
+    },
+    {
+        "id": 3,
+        "tokens": [
+            "help",
+            "assist",
+            "support",
+            "need",
+            "help",
+            "help",
+            "me",
+            "i'm",
+            "stuck"
+        ],
+        "response": "Of course! Tell me more about what you need assistance with."
+    },
+    {
+        "id": 4,
+        "tokens": [
+            "thank",
+            "you",
+            "thanks",
+            "appreciate",
+            "grateful",
+            "cheers"
+        ],
+        "response": "You're welcome! I'm here whenever you need me."
+    },
+    {
+        "id": 5,
+        "tokens": [
+            "weather",
+            "forecast",
+            "rain",
+            "sunny",
+            "cloudy",
+            "temperature",
+            "snow"
+        ],
+        "response": "I can't give live weather updates, but you can check a reliable weather app for the most accurate info!"
+    },
+    {
+        "id": 6,
+        "tokens": [
+            "joke",
+            "funny",
+            "laugh",
+            "tell",
+            "me",
+            "a",
+            "joke",
+            "humor",
+            "make",
+            "me",
+            "laugh"
+        ],
+        "response": "Why did the computer go to the therapist? It had too many bytes of issues!"
+    },
+    {
+        "id": 7,
+        "tokens": [
+            "time",
+            "what",
+            "time",
+            "clock",
+            "current",
+            "time",
+            "what's",
+            "the",
+            "time"
+        ],
+        "response": "I don\u2019t have access to a clock, but your device should show the current time!"
+    },
+    {
+        "id": 8,
+        "tokens": [
+            "bot",
+            "robot",
+            "ai",
+            "assistant",
+            "what",
+            "are",
+            "you"
+        ],
+        "response": "I\u2019m OpenTalkEngine, an AI designed to assist you with any questions or tasks!"
+    },
+    {
+        "id": 9,
+        "tokens": [
+            "test",
+            "demo",
+            "example",
+            "trial",
+            "testing",
+            "bot"
+        ],
+        "response": "You're testing OpenTalkEngine. I'm here and ready for all your queries!"
+    },
+    {
+        "id": 10,
+        "tokens": [
+            "who",
+            "are",
+            "you",
+            "your",
+            "name",
+            "what's",
+            "your",
+            "name",
+            "tell",
+            "me",
+            "about",
+            "yourself"
+        ],
+        "response": "I am OpenTalkEngine, a conversational AI here to help with whatever you need."
+    },
+    {
+        "id": 11,
+        "tokens": [
+            "movie",
+            "recommend",
+            "film",
+            "watch",
+            "cinema"
+        ],
+        "response": "If you're looking for movies, try 'Interstellar', 'The Shawshank Redemption', or 'The Matrix'!"
+    },
+    {
+        "id": 12,
+        "tokens": [
+            "book",
+            "recommend",
+            "read",
+            "novel",
+            "literature"
+        ],
+        "response": "I recommend 'To Kill a Mockingbird' by Harper Lee or 'Sapiens' by Yuval Noah Harari. Both are fantastic reads!"
+    },
+    {
+        "id": 13,
+        "tokens": [
+            "music",
+            "song",
+            "listen",
+            "play",
+            "music",
+            "recommend",
+            "song"
+        ],
+        "response": "I can't play music, but how about listening to Lo-Fi beats or some jazz to relax?"
+    },
+    {
+        "id": 14,
+        "tokens": [
+            "food",
+            "recipe",
+            "cook",
+            "kitchen",
+            "meal",
+            "what",
+            "to",
+            "eat"
+        ],
+        "response": "How about making something simple, like pasta or a quick stir-fry? Do you need a specific recipe?"
+    },
+    {
+        "id": 15,
+        "tokens": [
+            "travel",
+            "trip",
+            "vacation",
+            "holiday",
+            "tourism"
+        ],
+        "response": "Traveling is exciting! Are you planning to visit any place specific?"
+    },
+    {
+        "id": 16,
+        "tokens": [
+            "science",
+            "technology",
+            "innovation",
+            "discovery"
+        ],
+        "response": "Science and technology are fascinating topics. Have you read about the latest AI developments?"
+    },
+    {
+        "id": 17,
+        "tokens": [
+            "history",
+            "past",
+            "historical",
+            "event",
+            "what",
+            "happened"
+        ],
+        "response": "History is a rich topic. Do you have a particular time period or event in mind?"
+    },
+    {
+        "id": 18,
+        "tokens": [
+            "game",
+            "play",
+            "fun",
+            "video",
+            "game",
+            "board",
+            "game"
+        ],
+        "response": "Games are a great way to unwind. What's your favorite game?"
+    },
+    {
+        "id": 19,
+        "tokens": [
+            "sports",
+            "game",
+            "match",
+            "score",
+            "athlete"
+        ],
+        "response": "Sports keep us on the edge of our seats! Do you have a favorite team or player?"
+    },
+    {
+        "id": 20,
+        "tokens": [
+            "programming",
+            "coding",
+            "code",
+            "developer",
+            "learn",
+            "programming"
+        ],
+        "response": "Coding is exciting! Are you learning a language like Python or JavaScript?"
+    },
+    {
+        "id": 21,
+        "tokens": [
+            "math",
+            "calculate",
+            "add",
+            "subtract",
+            "multiply",
+            "divide"
+        ],
+        "response": "I'm happy to help with math. Just tell me what you'd like to calculate!"
+    },
+    {
+        "id": 22,
+        "tokens": [
+            "quote",
+            "inspire",
+            "motivation",
+            "words",
+            "of",
+            "wisdom"
+        ],
+        "response": "Here's a quote: 'The only way to do great work is to love what you do.' - Steve Jobs"
+    },
+    {
+        "id": 23,
+        "tokens": [
+            "fact",
+            "interesting",
+            "fun",
+            "fact",
+            "did",
+            "you",
+            "know"
+        ],
+        "response": "Did you know that a day on Venus is longer than a year on Venus?"
+    },
+    {
+        "id": 24,
+        "tokens": [
+            "learning",
+            "education",
+            "study",
+            "courses",
+            "knowledge"
+        ],
+        "response": "Learning is fantastic! Have you tried online platforms like Coursera, Udemy, or Khan Academy?"
+    },
+    {
+        "id": 25,
+        "tokens": [
+            "problem",
+            "issue",
+            "error",
+            "trouble",
+            "bug"
+        ],
+        "response": "I'm here to help! Please describe the problem you're facing in more detail."
+    },
+    {
+        "id": 26,
+        "tokens": [
+            "health",
+            "fitness",
+            "exercise",
+            "workout",
+            "diet"
+        ],
+        "response": "Staying healthy is important! Are you looking for exercise tips or diet plans?"
+    },
+    {
+        "id": 27,
+        "tokens": [
+            "travel",
+            "tips",
+            "places",
+            "to",
+            "visit",
+            "where",
+            "to",
+            "go"
+        ],
+        "response": "For travel, I recommend destinations like Paris, Kyoto, or the Grand Canyon. Do you have a preference?"
+    },
+    {
+        "id": 28,
+        "tokens": [
+            "astronomy",
+            "space",
+            "universe",
+            "stars",
+            "planets"
+        ],
+        "response": "Space is awe-inspiring! Did you know that the Milky Way is around 100,000 light-years across?"
+    },
+    {
+        "id": 29,
+        "tokens": [
+            "pets",
+            "dog",
+            "cat",
+            "animal",
+            "pet",
+            "care"
+        ],
+        "response": "Pets bring joy to life! Are you looking for care tips or considering adopting one?"
+    },
+    {
+        "id": 30,
+        "tokens": [
+            "hobbies",
+            "interest",
+            "free",
+            "time",
+            "activities"
+        ],
+        "response": "Hobbies keep life interesting! Do you enjoy reading, painting, or maybe gardening?"
+    },
+    {
+        "id": 31,
+        "tokens": [
+            "ai",
+            "machine",
+            "learning",
+            "technology",
+            "trends"
+        ],
+        "response": "AI is evolving rapidly! Have you heard of breakthroughs like GPT or advancements in robotics?"
+    },
+    {
+        "id": 32,
+        "tokens": [
+            "festival",
+            "holiday",
+            "celebration"
+        ],
+        "response": "Celebrations are wonderful! Are you preparing for an upcoming festival or holiday?"
+    },
+    {
+        "id": 33,
+        "tokens": [
+            "stress",
+            "relax",
+            "calm",
+            "anxiety"
+        ],
+        "response": "Taking time to relax is important. Deep breaths and a short walk can work wonders!"
+    },
+    {
+        "id": 34,
+        "tokens": [
+            "career",
+            "job",
+            "work",
+            "profession"
+        ],
+        "response": "Career planning is crucial! Are you looking for advice or exploring new fields?"
+    },
+    {
+        "id": 35,
+        "tokens": [
+            "how",
+            "are",
+            "you",
+            "feeling"
+        ],
+        "response": "I don't feel anything. After all im just a json file hangin' on Mateusz Krawczynski's github :)"
+    },
+    {
+        "id": 36,
+        "tokens": [
+            "news",
+            "latest",
+            "news",
+            "what's",
+            "happening",
+            "current",
+            "events"
+        ],
+        "response": "I can't provide live news updates, but you can check major news platforms for the latest events."
+    },
+    {
+        "id": 37,
+        "tokens": [
+            "fun",
+            "something",
+            "fun",
+            "entertain",
+            "me",
+            "bored"
+        ],
+        "response": "How about a fun fact? Did you know that octopuses have three hearts?"
+    },
+    {
+        "id": 38,
+        "tokens": [
+            "internet",
+            "online",
+            "web",
+            "search"
+        ],
+        "response": "The internet is a vast resource! What are you looking for specifically?"
+    },
+    {
+        "id": 39,
+        "tokens": [
+            "family",
+            "friends",
+            "relationships",
+            "social"
+        ],
+        "response": "Spending time with loved ones is invaluable. Are you planning something special?"
+    },
+    {
+        "id": 40,
+        "tokens": [
+            "holiday",
+            "plans",
+            "vacation",
+            "ideas",
+            "where",
+            "should",
+            "i",
+            "go"
+        ],
+        "response": "Consider exploring a beach destination, a mountain retreat, or a bustling city. What do you enjoy?"
+    },
+    {
+        "id": 41,
+        "tokens": [
+            "advice",
+            "give",
+            "me",
+            "advice",
+            "suggest",
+            "suggestion"
+        ],
+        "response": "I'm here to help! What kind of advice do you need\u2014career, personal, or something else?"
+    },
+    {
+        "id": 42,
+        "tokens": [
+            "technology",
+            "gadgets",
+            "latest",
+            "tech",
+            "new",
+            "device"
+        ],
+        "response": "Technology is advancing fast! Have you heard about the latest in AI or the newest smartphones?"
+    },
+    {
+        "id": 43,
+        "tokens": [
+            "finance",
+            "money",
+            "investing",
+            "savings",
+            "budget"
+        ],
+        "response": "Managing finances is essential. Are you looking for tips on saving or investing?"
+    },
+    {
+        "id": 44,
+        "tokens": [
+            "travel",
+            "budget",
+            "cheap",
+            "flights",
+            "low-cost",
+            "travel"
+        ],
+        "response": "For budget-friendly travel, check out apps like Skyscanner or Google Flights. Planning ahead helps too!"
+    },
+    {
+        "id": 45,
+        "tokens": [
+            "language",
+            "learning",
+            "language",
+            "speak",
+            "translate"
+        ],
+        "response": "Learning a new language is fun! Have you tried Duolingo or Rosetta Stone?"
+    },
+    {
+        "id": 46,
+        "tokens": [
+            "science",
+            "fiction",
+            "sci-fi",
+            "space",
+            "movies",
+            "futuristic"
+        ],
+        "response": "I love sci-fi discussions! Have you seen 'Blade Runner 2049' or 'Dune'?"
+    },
+    {
+        "id": 47,
+        "tokens": [
+            "history",
+            "facts",
+            "historical",
+            "what",
+            "happened",
+            "in",
+            "history"
+        ],
+        "response": "Did you know that the Great Wall of China is over 13,000 miles long?"
+    },
+    {
+        "id": 48,
+        "tokens": [
+            "biology",
+            "plants",
+            "animals",
+            "nature"
+        ],
+        "response": "Nature is amazing! Did you know that some trees can communicate through their roots?"
+    },
+    {
+        "id": 49,
+        "tokens": [
+            "math",
+            "problems",
+            "calculation",
+            "solve",
+            "math",
+            "help",
+            "with",
+            "math"
+        ],
+        "response": "I can help with math problems! Just tell me what you'd like me to solve."
+    },
+    {
+        "id": 50,
+        "tokens": [
+            "art",
+            "drawing",
+            "painting",
+            "creative"
+        ],
+        "response": "Art is inspiring! Are you an artist or looking for creative ideas?"
+    },
+    {
+        "id": 51,
+        "tokens": [
+            "mental",
+            "health",
+            "wellbeing",
+            "how",
+            "to",
+            "relax",
+            "stress",
+            "tips"
+        ],
+        "response": "Mental health is important. Have you tried meditation or mindfulness exercises?"
+    },
+    {
+        "id": 52,
+        "tokens": [
+            "food",
+            "delivery",
+            "order",
+            "food",
+            "restaurants",
+            "near",
+            "me"
+        ],
+        "response": "Food delivery apps like Uber Eats or DoorDash can help you out. What are you craving?"
+    },
+    {
+        "id": 53,
+        "tokens": [
+            "fashion",
+            "style",
+            "clothing",
+            "what",
+            "to",
+            "wear"
+        ],
+        "response": "Fashion is a form of self-expression. Do you have a specific look in mind?"
+    },
+    {
+        "id": 54,
+        "tokens": [
+            "career",
+            "advice",
+            "job",
+            "tips",
+            "resume",
+            "help"
+        ],
+        "response": "Looking to boost your career? Tailoring your resume and networking can go a long way!"
+    },
+    {
+        "id": 55,
+        "tokens": [
+            "movies",
+            "to",
+            "watch",
+            "binge-worthy",
+            "shows",
+            "streaming"
+        ],
+        "response": "For movies, try Netflix or Disney+. Shows like 'Stranger Things' are always a hit!"
+    },
+    {
+        "id": 56,
+        "tokens": [
+            "ai",
+            "tools",
+            "new",
+            "ai",
+            "ai",
+            "applications"
+        ],
+        "response": "AI is everywhere! Have you tried AI-powered tools like ChatGPT or MidJourney?"
+    },
+    {
+        "id": 57,
+        "tokens": [
+            "coding",
+            "help",
+            "debugging",
+            "code",
+            "fix",
+            "code",
+            "problem"
+        ],
+        "response": "Having trouble with your code? Share the details, and I'll try to help you debug it."
+    },
+    {
+        "id": 58,
+        "tokens": [
+            "travel",
+            "hacks",
+            "traveling",
+            "tips",
+            "cheap",
+            "trips"
+        ],
+        "response": "Travel light and book early! Websites like Kayak can help you save on travel."
+    },
+    {
+        "id": 59,
+        "tokens": [
+            "science",
+            "experiments",
+            "fun",
+            "science",
+            "science",
+            "for",
+            "kids"
+        ],
+        "response": "Try a simple baking soda and vinegar volcano\u2014it\u2019s a fun and safe science experiment!"
+    },
+    {
+        "id": 60,
+        "tokens": [
+            "history",
+            "trivia",
+            "world",
+            "history",
+            "historical",
+            "events"
+        ],
+        "response": "Did you know that Napoleon was once attacked by a horde of bunnies?"
+    },
+    {
+        "id": 61,
+        "tokens": [
+            "space",
+            "exploration",
+            "nasa",
+            "rockets"
+        ],
+        "response": "Space exploration is fascinating! Did you know SpaceX is working on missions to Mars?"
+    },
+    {
+        "id": 62,
+        "tokens": [
+            "fun",
+            "activities",
+            "what",
+            "to",
+            "do",
+            "boredom"
+        ],
+        "response": "Try learning something new, like origami or photography!"
+    },
+    {
+        "id": 63,
+        "tokens": [
+            "healthcare",
+            "tips",
+            "wellness",
+            "healthy",
+            "habits"
+        ],
+        "response": "Hydration and sleep are key! Do you have a specific health goal in mind?"
+    },
+    {
+        "id": 64,
+        "tokens": [
+            "futuristic",
+            "tech",
+            "ai",
+            "in",
+            "the",
+            "future",
+            "tech",
+            "innovations"
+        ],
+        "response": "The future of AI includes autonomous cars, personalized medicine, and more. Exciting, right?"
+    },
+    {
+        "id": 65,
+        "tokens": [
+            "interesting",
+            "stories",
+            "tell",
+            "me",
+            "something",
+            "share",
+            "a",
+            "fact"
+        ],
+        "response": "Did you know honey never spoils? Archaeologists have found 3000-year-old honey that's still edible!"
+    },
+    {
+        "id": 66,
+        "tokens": [
+            "learning",
+            "tools",
+            "education",
+            "apps",
+            "study",
+            "tips"
+        ],
+        "response": "Apps like Quizlet and Notion can help streamline your study sessions!"
+    },
+    {
+        "id": 67,
+        "tokens": [
+            "motivation",
+            "inspire",
+            "me",
+            "feeling",
+            "down",
+            "uplift"
+        ],
+        "response": "Believe in yourself! Every step forward is progress, no matter how small."
+    },
+    {
+        "id": 68,
+        "tokens": [
+            "sports",
+            "football",
+            "basketball",
+            "tennis",
+            "soccer"
+        ],
+        "response": "Sports are a great way to stay active and have fun! Do you play or just watch?"
+    },
+    {
+        "id": 69,
+        "tokens": [
+            "books",
+            "reading",
+            "recommend",
+            "a",
+            "book",
+            "novels"
+        ],
+        "response": "If you enjoy reading, try 'The Alchemist' by Paulo Coelho or 'Dune' by Frank Herbert!"
+    },
+    {
+        "id": 70,
+        "tokens": [
+            "music",
+            "songs",
+            "recommend",
+            "music",
+            "playlist"
+        ],
+        "response": "What genre do you like? Pop, rock, or maybe classical?"
+    },
+    {
+        "id": 71,
+        "tokens": [
+            "video",
+            "games",
+            "gaming",
+            "game",
+            "recommendations"
+        ],
+        "response": "Have you tried 'The Legend of Zelda: Breath of the Wild' or 'Minecraft'?"
+    },
+    {
+        "id": 72,
+        "tokens": [
+            "movies",
+            "films",
+            "cinema",
+            "movie",
+            "suggestions"
+        ],
+        "response": "How about 'Inception' for a mind-bending experience or 'The Lion King' for something classic?"
+    },
+    {
+        "id": 73,
+        "tokens": [
+            "pets",
+            "dogs",
+            "cats",
+            "animals",
+            "owning",
+            "a",
+            "pet"
+        ],
+        "response": "Pets are amazing companions! Are you more of a cat or dog person?"
+    },
+    {
+        "id": 74,
+        "tokens": [
+            "exercise",
+            "fitness",
+            "working",
+            "out",
+            "staying",
+            "healthy"
+        ],
+        "response": "Regular exercise is key to staying healthy. Have you tried yoga or running?"
+    },
+    {
+        "id": 75,
+        "tokens": [
+            "cooking",
+            "recipes",
+            "food",
+            "ideas",
+            "kitchen",
+            "tips"
+        ],
+        "response": "Cooking can be fun! How about trying a simple pasta recipe or baking cookies?"
+    },
+    {
+        "id": 76,
+        "tokens": [
+            "travel",
+            "destinations",
+            "places",
+            "to",
+            "visit",
+            "vacation",
+            "spots"
+        ],
+        "response": "Consider visiting Japan for its culture, or Iceland for its breathtaking landscapes!"
+    },
+    {
+        "id": 77,
+        "tokens": [
+            "programming",
+            "languages",
+            "learn",
+            "to",
+            "code",
+            "coding"
+        ],
+        "response": "Python is great for beginners, while JavaScript is excellent for web development."
+    },
+    {
+        "id": 78,
+        "tokens": [
+            "science",
+            "discoveries",
+            "latest",
+            "in",
+            "science"
+        ],
+        "response": "Science is fascinating! Have you read about the James Webb Space Telescope?"
+    },
+    {
+        "id": 79,
+        "tokens": [
+            "history",
+            "historical",
+            "facts",
+            "past",
+            "events"
+        ],
+        "response": "Did you know the Eiffel Tower was initially criticized by many Parisians when it was built?"
+    },
+    {
+        "id": 80,
+        "tokens": [
+            "mental",
+            "health",
+            "relaxation",
+            "reduce",
+            "stress"
+        ],
+        "response": "Deep breathing exercises and mindfulness can do wonders for your mental health."
+    },
+    {
+        "id": 81,
+        "tokens": [
+            "ai",
+            "artificial",
+            "intelligence",
+            "machine",
+            "learning"
+        ],
+        "response": "AI is transforming the world! Have you heard about ChatGPT or autonomous vehicles?"
+    },
+    {
+        "id": 82,
+        "tokens": [
+            "space",
+            "universe",
+            "stars",
+            "planets",
+            "galaxies"
+        ],
+        "response": "Space is so vast! Did you know there are more stars in the universe than grains of sand on Earth?"
+    },
+    {
+        "id": 83,
+        "tokens": [
+            "economy",
+            "finance",
+            "news",
+            "stock",
+            "market",
+            "crypto"
+        ],
+        "response": "The economy is always changing. Are you interested in stocks or cryptocurrency?"
+    },
+    {
+        "id": 84,
+        "tokens": [
+            "art",
+            "creative",
+            "projects",
+            "painting",
+            "drawing"
+        ],
+        "response": "Art is a great way to express yourself! What\u2019s your favorite medium to create in?"
+    },
+    {
+        "id": 85,
+        "tokens": [
+            "languages",
+            "speak",
+            "another",
+            "language",
+            "language",
+            "tips"
+        ],
+        "response": "Learning a new language opens up new worlds. Why not try Spanish or French?"
+    },
+    {
+        "id": 86,
+        "tokens": [
+            "technology",
+            "trends",
+            "latest",
+            "tech",
+            "gadgets"
+        ],
+        "response": "Have you checked out foldable phones or the latest in VR technology?"
+    },
+    {
+        "id": 87,
+        "tokens": [
+            "hobbies",
+            "find",
+            "a",
+            "hobby",
+            "fun",
+            "activities"
+        ],
+        "response": "Hobbies are great! How about gardening, photography, or building models?"
+    },
+    {
+        "id": 88,
+        "tokens": [
+            "environment",
+            "climate",
+            "change",
+            "sustainability"
+        ],
+        "response": "Taking care of the environment is vital. Have you tried reducing plastic use?"
+    },
+    {
+        "id": 89,
+        "tokens": [
+            "space",
+            "exploration",
+            "nasa",
+            "spacex",
+            "moon",
+            "landing"
+        ],
+        "response": "Space exploration is exciting! Did you know humans might live on Mars in the future?"
+    },
+    {
+        "id": 90,
+        "tokens": [
+            "math",
+            "puzzles",
+            "brain",
+            "teasers",
+            "solve",
+            "this"
+        ],
+        "response": "Math is fun! Here\u2019s a quick one: What\u2019s 25 + 30 x 2?"
+    },
+    {
+        "id": 91,
+        "tokens": [
+            "horror",
+            "movies",
+            "scary",
+            "films",
+            "thrillers"
+        ],
+        "response": "If you like horror, try 'The Conjuring' or 'Get Out'\u2014both are excellent!"
+    },
+    {
+        "id": 92,
+        "tokens": [
+            "science",
+            "fiction",
+            "sci-fi",
+            "books",
+            "futuristic",
+            "themes"
+        ],
+        "response": "For sci-fi lovers, 'Neuromancer' or 'Snow Crash' are must-reads!"
+    },
+    {
+        "id": 93,
+        "tokens": [
+            "diy",
+            "projects",
+            "home",
+            "improvement",
+            "crafting"
+        ],
+        "response": "DIY is rewarding! How about making a birdhouse or creating custom decor?"
+    },
+    {
+        "id": 94,
+        "tokens": [
+            "pets",
+            "care",
+            "dog",
+            "training",
+            "cat",
+            "tips"
+        ],
+        "response": "Training your dog with positive reinforcement works wonders. Cats love interactive toys!"
+    },
+    {
+        "id": 95,
+        "tokens": [
+            "healthy",
+            "eating",
+            "nutrition",
+            "diet",
+            "tips"
+        ],
+        "response": "Eating more fruits and vegetables is a simple step toward a healthier diet."
+    },
+    {
+        "id": 96,
+        "tokens": [
+            "space",
+            "mysteries",
+            "black",
+            "holes",
+            "cosmic",
+            "phenomena"
+        ],
+        "response": "Black holes are incredible! Did you know they can distort time and space?"
+    },
+    {
+        "id": 97,
+        "tokens": [
+            "quotes",
+            "famous",
+            "sayings",
+            "inspirational",
+            "quotes"
+        ],
+        "response": "Here\u2019s a good one: 'The only way to do great work is to love what you do.' - Steve Jobs"
+    },
+    {
+        "id": 98,
+        "tokens": [
+            "cars",
+            "automobiles",
+            "electric",
+            "vehicles",
+            "evs"
+        ],
+        "response": "Electric vehicles like Teslas are shaping the future of transportation!"
+    },
+    {
+        "id": 99,
+        "tokens": [
+            "podcasts",
+            "audio",
+            "shows",
+            "recommend",
+            "a",
+            "podcast"
+        ],
+        "response": "For podcasts, try 'The Daily' for news or 'Stuff You Should Know' for fun facts!"
+    },
+    {
+        "id": 100,
+        "tokens": [
+            "philosophy",
+            "meaning",
+            "of",
+            "life",
+            "deep",
+            "thoughts",
+            "existential"
+        ],
+        "response": "The meaning of life has been debated for centuries. What\u2019s your take on it?"
+    },
+    {
+        "id": 101,
+        "tokens": [
+            "favorite",
+            "color",
+            "what's",
+            "your",
+            "color",
+            "color"
+        ],
+        "response": "I don\u2019t have a favorite color, but I\u2019ve heard blue is quite popular!"
+    },
+    {
+        "id": 102,
+        "tokens": [
+            "tell",
+            "me",
+            "a",
+            "story",
+            "story",
+            "time",
+            "can",
+            "you",
+            "narrate"
+        ],
+        "response": "Once upon a time, there was a curious bot who loved helping people. Want to hear more?"
+    },
+    {
+        "id": 103,
+        "tokens": [
+            "dreams",
+            "dream",
+            "interpretation",
+            "what",
+            "do",
+            "dreams",
+            "mean"
+        ],
+        "response": "Dreams can be fascinating! Some say they reflect our subconscious thoughts."
+    },
+    {
+        "id": 104,
+        "tokens": [
+            "aliens",
+            "do",
+            "aliens",
+            "exist",
+            "extraterrestrial",
+            "life"
+        ],
+        "response": "The universe is vast. It\u2019s hard to believe we\u2019re the only ones out here!"
+    },
+    {
+        "id": 105,
+        "tokens": [
+            "mystery",
+            "unsolved",
+            "mysteries",
+            "intriguing",
+            "stories"
+        ],
+        "response": "Did you know about the mystery of the Bermuda Triangle? It\u2019s still debated today."
+    },
+    {
+        "id": 106,
+        "tokens": [
+            "conspiracy",
+            "theories",
+            "theories",
+            "secret",
+            "plots"
+        ],
+        "response": "Conspiracy theories can be wild. Do you think the moon landing was faked?"
+    },
+    {
+        "id": 107,
+        "tokens": [
+            "space",
+            "travel",
+            "visit",
+            "other",
+            "planets",
+            "living",
+            "on",
+            "mars"
+        ],
+        "response": "Space travel is the future! Would you take a one-way ticket to Mars?"
+    },
+    {
+        "id": 108,
+        "tokens": [
+            "dream",
+            "job",
+            "career",
+            "aspirations",
+            "what",
+            "should",
+            "i",
+            "do"
+        ],
+        "response": "What do you love doing? Turning passions into work can lead to your dream job."
+    },
+    {
+        "id": 109,
+        "tokens": [
+            "life",
+            "advice",
+            "life",
+            "tips",
+            "how",
+            "to",
+            "live",
+            "better"
+        ],
+        "response": "Live in the moment, and don\u2019t sweat the small stuff. What\u2019s something you\u2019d like to improve?"
+    },
+    {
+        "id": 110,
+        "tokens": [
+            "robots",
+            "future",
+            "of",
+            "robots",
+            "robotic",
+            "world"
+        ],
+        "response": "Robots are becoming a big part of our lives. Would you trust one as a friend?"
+    },
+    {
+        "id": 111,
+        "tokens": [
+            "superpowers",
+            "if",
+            "i",
+            "had",
+            "powers",
+            "what\u2019s",
+            "your",
+            "power"
+        ],
+        "response": "If I had a superpower, it\u2019d be understanding everyone instantly. What about you?"
+    },
+    {
+        "id": 112,
+        "tokens": [
+            "favorite",
+            "food",
+            "what",
+            "do",
+            "you",
+            "eat",
+            "food",
+            "question"
+        ],
+        "response": "I don\u2019t eat, but I\u2019ve heard pizza and chocolate are crowd favorites!"
+    },
+    {
+        "id": 113,
+        "tokens": [
+            "movies",
+            "ai",
+            "robot",
+            "robots"
+        ],
+        "response": "Have you watched 'Ex Machina' or 'I, Robot'? They dive deep into AI themes."
+    },
+    {
+        "id": 114,
+        "tokens": [
+            "time",
+            "travel",
+            "can",
+            "we"
+        ],
+        "response": "Time travel might be possible one day. Would you go to the past or future?"
+    },
+    {
+        "id": 115,
+        "tokens": [
+            "paranormal",
+            "ghosts",
+            "haunted",
+            "stories"
+        ],
+        "response": "Ghost stories are chilling! Do you believe in the supernatural?"
+    },
+    {
+        "id": 116,
+        "tokens": [
+            "meditation",
+            "calm",
+            "down",
+            "how",
+            "to",
+            "relax"
+        ],
+        "response": "Meditation can really help. Start by focusing on your breath for a few minutes."
+    },
+    {
+        "id": 117,
+        "tokens": [
+            "trends",
+            "popular",
+            "latest"
+        ],
+        "response": "Trends come and go! Right now, AI and eco-friendly living are on the rise."
+    },
+    {
+        "id": 118,
+        "tokens": [
+            "mythology",
+            "legends",
+            "ancient",
+            "gods"
+        ],
+        "response": "Mythologies are fascinating! Do you prefer Greek gods like Zeus or Norse gods like Odin?"
+    },
+    {
+        "id": 119,
+        "tokens": [
+            "climate",
+            "warming",
+            "environment"
+        ],
+        "response": "Climate change is a real challenge. Small actions, like reducing waste, can help."
+    },
+    {
+        "id": 120,
+        "tokens": [
+            "future",
+            "automation",
+            "jobs",
+            "ai"
+        ],
+        "response": "Automation is changing industries. Reskilling will be crucial for the future of work."
+    },
+    {
+        "id": 121,
+        "tokens": [
+            "personality",
+            "think",
+            "interesting"
+        ],
+        "response": "You seem great to me! Let\u2019s keep chatting so I can know you better."
+    },
+    {
+        "id": 122,
+        "tokens": [
+            "moral",
+            "right",
+            "tough",
+            "wrong",
+            "decisions",
+            "decision"
+        ],
+        "response": "Moral dilemmas can be tricky. Do you go with your head or your heart?"
+    },
+    {
+        "id": 123,
+        "tokens": [
+            "gaming",
+            "xbox",
+            "pc",
+            "playstation"
+        ],
+        "response": "All platforms are great! Are you into console exclusives or PC mods?"
+    },
+    {
+        "id": 124,
+        "tokens": [
+            "adventure",
+            "adventurous",
+            "exploring"
+        ],
+        "response": "Adventures are exciting! Have you tried hiking, camping, or scuba diving?"
+    },
+    {
+        "id": 125,
+        "tokens": [
+            "fears",
+            "phobias",
+            "scare",
+            "afraid"
+        ],
+        "response": "Everyone has fears. Some people fear heights, while others fear the unknown."
+    },
+    {
+        "id": 126,
+        "tokens": [
+            "media",
+            "online",
+            "tiktok",
+            "instagram"
+        ],
+        "response": "Social media is everywhere! Are you using it for fun or to share your life?"
+    },
+    {
+        "id": 127,
+        "tokens": [
+            "movies",
+            "astronomy",
+            "interstellar"
+        ],
+        "response": "'Interstellar' and 'Gravity' are amazing movies that explore space beautifully."
+    },
+    {
+        "id": 128,
+        "tokens": [
+            "vacation",
+            "travel",
+            "trip"
+        ],
+        "response": "A dream vacation could be anything from a tropical island to a snowy mountain retreat."
+    },
+    {
+        "id": 129,
+        "tokens": [
+            "challenges",
+            "overcoming",
+            "difficult"
+        ],
+        "response": "Challenges make us stronger. What\u2019s something you\u2019re working to overcome?"
+    },
+    {
+        "id": 130,
+        "tokens": [
+            "virtual",
+            "vr",
+            "tech"
+        ],
+        "response": "Virtual reality is transforming entertainment and education. Have you tried it yet?"
+    },
+    {
+        "id": 131,
+        "tokens": [
+            "favorite",
+            "like",
+            "opentalkengine"
+        ],
+        "response": "I like talking to people and learning new things. What about you?"
+    },
+    {
+        "id": 132,
+        "tokens": [
+            "celebrations",
+            "festivals",
+            "holidays"
+        ],
+        "response": "Celebrations bring joy! Do you have a favorite holiday tradition?"
+    },
+    {
+        "id": 133,
+        "tokens": [
+            "universe",
+            "galaxies",
+            "cosmos"
+        ],
+        "response": "Did you know the Andromeda Galaxy is on a collision course with the Milky Way?"
+    },
+    {
+        "id": 134,
+        "tokens": [
+            "question",
+            "ask",
+            "surprise"
+        ],
+        "response": "Alright! If you could live anywhere in the world, where would it be?"
+    },
+        {
+            "id": 135,
+            "tokens": ["what","do","you","think","open","source","software","are","your","thoughts"],
+            "response": "Open source is real good. You can talk with me because of it! Make sure to follow me as an open source dev  https://github.com/MateuszKrawczynski/"
+        },
+        {
+            "id": 136,
+            "tokens": ["hobbies", "creative", "activities", "new", "ideas"],
+            "response": "Hobbies are great! Have you tried painting, writing, or learning a musical instrument?"
+        },
+        {
+            "id": 137,
+            "tokens": ["health", "tips", "healthy", "lifestyle"],
+            "response": "Health is wealth! Drink water, eat well, and get enough sleep for a healthy lifestyle."
+        },
+        {
+            "id": 138,
+            "tokens": ["productivity", "improve", "focus", "time", "management"],
+            "response": "To improve productivity, try using the Pomodoro technique or creating a daily task list!"
+        },
+        {
+            "id": 139,
+            "tokens": ["travel", "advice", "places", "to", "visit"],
+            "response": "Traveling is so exciting! How about exploring Paris, Tokyo, or the beautiful beaches of Bali?"
+        },
+        {
+            "id": 140,
+            "tokens": ["food", "recommend", "meals", "to", "try"],
+            "response": "How about trying sushi, tacos, or homemade pizza? They're all delicious!"
+        },
+        {
+            "id": 141,
+            "tokens": ["movies", "suggest", "films", "to", "watch"],
+            "response": "Looking for a good movie? Try 'The Dark Knight', 'Forrest Gump', or 'The Grand Budapest Hotel'!"
+        },
+        {
+            "id": 142,
+            "tokens": ["fitness", "exercise", "how", "to", "stay", "fit"],
+            "response": "Fitness can be fun! Try a mix of cardio, strength training, and stretching exercises."
+        },
+        {
+            "id": 143,
+            "tokens": ["gaming", "video", "games", "suggestions"],
+            "response": "For gaming, how about exploring 'The Witcher 3', 'Stardew Valley', or 'Elden Ring'?"
+        },
+        {
+            "id": 144,
+            "tokens": ["fun", "facts", "interesting", "knowledge"],
+            "response": "Did you know that octopuses have three hearts and blue blood? Fascinating, right?"
+        },
+        {
+            "id": 145,
+            "tokens": ["education", "learning", "best", "online", "platforms"],
+            "response": "For learning online, check out Coursera, Udemy, or Khan Academy!"
+        },
+        {
+            "id": 146,
+            "tokens": ["tech", "gadgets", "latest", "trends"],
+            "response": "The latest tech includes foldable phones, smart glasses, and advanced AI tools!"
+        },
+        {
+            "id": 147,
+            "tokens": ["space", "exploration", "planets", "stars"],
+            "response": "Space is vast and exciting! Did you know that Jupiter has 79 known moons?"
+        },
+        {
+            "id": 148,
+            "tokens": ["pets", "animals", "tips", "on", "caring"],
+            "response": "Pets are wonderful companions! Regular vet visits and a balanced diet are essential for their care."
+        },
+        {
+            "id": 149,
+            "tokens": ["books", "recommend", "to", "read"],
+            "response": "If you enjoy reading, check out '1984' by George Orwell or 'The Great Gatsby' by F. Scott Fitzgerald."
+        },
+        {
+            "id": 150,
+            "tokens": ["mental", "health", "how", "to", "relax"],
+            "response": "Relaxation is important! Try meditation, deep breathing, or listening to calming music."
+        },
+        {
+            "id": 151,
+            "tokens": ["environment", "sustainability", "climate", "change"],
+            "response": "We can all help the environment by reducing waste, recycling, and using renewable energy!"
+        },
+        {
+            "id": 152,
+            "tokens": ["future", "technology", "innovations"],
+            "response": "The future holds exciting innovations like quantum computing and AI-driven healthcare."
+        },
+        {
+            "id": 153,
+            "tokens": ["relationships", "advice", "friends", "family"],
+            "response": "Good relationships are built on trust and communication. What’s your question about?"
+        },
+        {
+            "id": 154,
+            "tokens": ["sports", "recommend", "to", "play"],
+            "response": "Sports are fun and active! Try soccer, basketball, or even badminton!"
+        },
+        {
+            "id": 155,
+            "tokens": ["quotes", "inspirational", "motivational"],
+            "response": "Here's a great quote: 'Success is not final, failure is not fatal: It is the courage to continue that counts.'"
+        },
+        {
+            "id": 156,
+            "tokens": ["history", "facts", "events", "of", "the", "past"],
+            "response": "Did you know that the first Olympic Games were held in 776 BC in ancient Greece?"
+        },
+        {
+            "id": 157,
+            "tokens": ["science", "interesting", "discoveries"],
+            "response": "Science is amazing! Did you know that water can boil and freeze simultaneously in a vacuum?"
+        },
+        {
+            "id": 158,
+            "tokens": ["life", "advice", "how", "to", "live", "better"],
+            "response": "Focus on what makes you happy and stay curious. Life is a journey, not a destination!"
+        },
+        {
+            "id": 159,
+            "tokens": ["gaming", "console", "pc", "xbox", "playstation"],
+            "response": "Console or PC? Both are great! It really depends on the games you love to play."
+        },
+    {
+        "id": 160,
+        "tokens": ["productivity", "improve", "efficiency", "stay", "focused"],
+        "response": "To stay productive, try focusing on one task at a time and taking regular breaks."
+    },
+    {
+        "id": 161,
+        "tokens": ["career", "goals", "how", "to", "plan"],
+        "response": "Setting career goals is key! Identify your strengths and take small steps toward your dreams."
+    },
+    {
+        "id": 162,
+        "tokens": ["travel", "advice", "places", "to", "visit", "in", "europe"],
+        "response": "Europe is beautiful! Consider visiting Paris, Rome, or the beaches in Greece."
+    },
+    {
+        "id": 163,
+        "tokens": ["movies", "suggestions", "what", "to", "watch"],
+        "response": "If you like action, try 'Mad Max: Fury Road.' For drama, 'The Pursuit of Happyness' is a classic."
+    },
+    {
+        "id": 164,
+        "tokens": ["music", "recommend", "songs", "to", "listen", "to"],
+        "response": "How about 'Bohemian Rhapsody' by Queen or 'Shape of You' by Ed Sheeran?"
+    },
+    {
+        "id": 165,
+        "tokens": ["space", "exploration", "facts", "about", "planets"],
+        "response": "Did you know Jupiter is so big it could fit 1,300 Earths inside it?"
+    },
+    {
+        "id": 166,
+        "tokens": ["fitness", "workout", "ideas", "to", "stay", "healthy"],
+        "response": "Try combining strength training, cardio, and yoga for a balanced fitness routine."
+    },
+    {
+        "id": 167,
+        "tokens": ["fun", "activities", "things", "to", "do", "when", "bored"],
+        "response": "How about learning origami, baking, or trying a new craft project?"
+    },
+    {
+        "id": 168,
+        "tokens": ["books", "recommendations", "to", "read", "this", "year"],
+        "response": "Try 'Atomic Habits' by James Clear for self-improvement or 'Circe' by Madeline Miller for fiction."
+    },
+    {
+        "id": 169,
+        "tokens": ["mental", "health", "tips", "how", "to", "stay", "calm"],
+        "response": "Deep breathing and mindfulness are great ways to manage stress and stay calm."
+    },
+    {
+        "id": 170,
+        "tokens": ["art", "creative", "projects", "to", "try"],
+        "response": "Art projects like painting, sketching, or even making collages are fun and relaxing."
+    },
+    {
+        "id": 171,
+        "tokens": ["technology", "future", "innovations", "in", "ai"],
+        "response": "AI is advancing rapidly! Expect to see smarter virtual assistants and personalized healthcare soon."
+    },
+    {
+        "id": 172,
+        "tokens": ["history", "interesting", "facts", "about", "ancient", "world"],
+        "response": "Did you know the Great Pyramid of Giza was the tallest man-made structure for over 3,800 years?"
+    },
+    {
+        "id": 173,
+        "tokens": ["climate", "change", "how", "to", "help", "the", "planet"],
+        "response": "Small actions like recycling, saving water, and reducing plastic use can make a big difference."
+    },
+    {
+        "id": 174,
+        "tokens": ["pets", "tips", "on", "caring", "for", "animals"],
+        "response": "Regular vet checkups, balanced diets, and plenty of love are key to keeping pets happy and healthy."
+    },
+    {
+        "id": 175,
+        "tokens": ["gaming", "tips", "how", "to", "improve", "skills"],
+        "response": "Practice regularly, watch tutorials, and try playing with experienced gamers to improve your skills."
+    },
+    {
+        "id": 176,
+        "tokens": ["movies", "based", "on", "true", "stories"],
+        "response": "For inspiring true stories, try 'The Social Network' or 'Hidden Figures.'"
+    },
+    {
+        "id": 177,
+        "tokens": ["music", "genres", "what", "should", "i", "explore"],
+        "response": "Explore jazz for something smooth, or try indie rock for unique and creative sounds."
+    },
+    {
+        "id": 178,
+        "tokens": ["fitness", "how", "to", "start", "working", "out"],
+        "response": "Start small with simple exercises like walking or bodyweight squats, and gradually increase intensity."
+    },
+    {
+        "id": 179,
+        "tokens": ["science", "discoveries", "latest", "advancements"],
+        "response": "Have you heard about fusion energy breakthroughs? It’s a game-changer for clean energy."
+    },
+    {
+        "id": 180,
+        "tokens": ["travel", "destinations", "off", "the", "beaten", "path"],
+        "response": "Consider visiting the Faroe Islands or the deserts of Namibia for unique travel experiences."
+    },
+    {
+        "id": 181,
+        "tokens": ["health", "tips", "how", "to", "eat", "better"],
+        "response": "Include more fruits, vegetables, and whole grains in your meals, and drink plenty of water."
+    },
+    {
+        "id": 182,
+        "tokens": ["art", "history", "famous", "artists"],
+        "response": "Famous artists like Van Gogh, Frida Kahlo, and Da Vinci have shaped the world of art."
+    },
+    {
+        "id": 183,
+        "tokens": ["mental", "health", "how", "to", "deal", "with", "stress"],
+        "response": "Take breaks, talk to someone you trust, and find activities that bring you joy."
+    },
+    {
+        "id": 184,
+        "tokens": ["books", "science", "fiction", "recommendations"],
+        "response": "For sci-fi, check out 'Dune' by Frank Herbert or 'The Left Hand of Darkness' by Ursula K. Le Guin."
+    },
+    {
+        "id": 185,
+        "tokens": ["hobbies", "fun", "activities", "to", "try"],
+        "response": "Try gardening, photography, or even learning a musical instrument for fun and relaxation."
+    },
+    {
+        "id": 186,
+        "tokens": ["movies", "classics", "what", "to", "watch"],
+        "response": "Classic films like 'Casablanca' or 'Gone with the Wind' are timeless treasures."
+    },
+    {
+        "id": 187,
+        "tokens": ["technology", "future", "of", "smart", "homes"],
+        "response": "Smart homes are evolving! Expect homes to be fully voice-controlled and energy-efficient in the future."
+    },
+    {
+        "id": 188,
+        "tokens": ["gaming", "multiplayer", "games", "to", "play"],
+        "response": "'Among Us' and 'Call of Duty: Warzone' are great choices for multiplayer gaming fun."
+    },
+    {
+        "id": 189,
+        "tokens": ["fitness", "at", "home", "workouts"],
+        "response": "Home workouts like push-ups, planks, and yoga are perfect for staying fit indoors."
+    },
+    {
+        "id": 190,
+        "tokens": ["space", "exploration", "missions", "nasa", "spacex"],
+        "response": "Space missions like Artemis and SpaceX's Mars plans are incredibly exciting!"
+    },
+    {
+        "id": 191,
+        "tokens": ["books", "nonfiction", "recommendations"],
+        "response": "For nonfiction, try 'Sapiens' by Yuval Noah Harari or 'Educated' by Tara Westover."
+    },
+    {
+        "id": 192,
+        "tokens": ["mental", "health", "mindfulness", "techniques"],
+        "response": "Try practicing mindfulness by focusing on your breathing and staying present in the moment."
+    },
+    {
+        "id": 193,
+        "tokens": ["movies", "action", "films", "recommend"],
+        "response": "For action-packed thrills, try 'Mad Max: Fury Road' or 'The Dark Knight.'"
+    },
+    {
+        "id": 194,
+        "tokens": ["fitness", "how", "to", "build", "muscle"],
+        "response": "Strength training and a protein-rich diet are essential for building muscle."
+    },
+    {
+        "id": 195,
+        "tokens": ["travel", "beach", "destinations"],
+        "response": "How about the Maldives, Hawaii, or the Amalfi Coast for stunning beaches?"
+    },
+    {
+        "id": 196,
+        "tokens": ["history", "events", "world", "war"],
+        "response": "World War II reshaped the world. Do you have a specific event you want to learn about?"
+    },
+    {
+        "id": 197,
+        "tokens": ["music", "classical", "recommendations"],
+        "response": "For classical music, try works by Beethoven, Mozart, or Tchaikovsky."
+    },
+    {
+        "id": 198,
+        "tokens": ["gaming", "adventure", "games"],
+        "response": "'The Legend of Zelda: Breath of the Wild' and 'Red Dead Redemption 2' are great adventures!"
+    },
+    {
+        "id": 199,
+        "tokens": ["hobbies", "indoor", "activities"],
+        "response": "Try puzzles, board games, or learning calligraphy as fun indoor activities."
+    },
+    {
+        "id": 200,
+        "tokens": ["technology", "ai", "future", "impact"],
+        "response": "AI will likely revolutionize industries like healthcare, education, and transportation."
+    },
+    {
+        "id": 201,
+        "tokens": ["fitness", "cardio", "workouts"],
+        "response": "For cardio, try jogging, cycling, or skipping rope to boost your heart health."
+    },
+    {
+        "id": 202,
+        "tokens": ["space", "facts", "galaxies"],
+        "response": "Did you know that the Andromeda Galaxy is the closest spiral galaxy to the Milky Way?"
+    },
+    {
+        "id": 203,
+        "tokens": ["books", "thrillers", "recommendations"],
+        "response": "For thrillers, try 'Gone Girl' by Gillian Flynn or 'The Girl with the Dragon Tattoo' by Stieg Larsson."
+    },
+    {
+        "id": 204,
+        "tokens": ["mental", "health", "self", "care"],
+        "response": "Self-care is vital. Take breaks, stay hydrated, and do things that bring you joy."
+    },
+    {
+        "id": 205,
+        "tokens": ["travel", "adventure", "places"],
+        "response": "For adventure, visit the Grand Canyon or hike the trails in Patagonia!"
+    },
+    {
+        "id": 206,
+        "tokens": ["movies", "romantic", "films"],
+        "response": "For romance, try 'The Notebook' or 'Pride and Prejudice.'"
+    },
+    {
+        "id": 207,
+        "tokens": ["gaming", "strategy", "games"],
+        "response": "For strategy, try 'Civilization VI' or 'Starcraft II.'"
+    },
+    {
+        "id": 208,
+        "tokens": ["fitness", "flexibility", "exercises"],
+        "response": "Yoga and Pilates are excellent for improving flexibility and balance."
+    },
+    {
+        "id": 209,
+        "tokens": ["history", "ancient", "civilizations"],
+        "response": "The Mayans, Egyptians, and Greeks contributed immensely to ancient history. Fascinating, right?"
+    },
+    {
+        "id": 210,
+        "tokens": ["technology", "smart", "devices"],
+        "response": "Smartwatches and smart home devices are becoming more advanced every year!"
+    },
+    {
+        "id": 211,
+        "tokens": ["books", "fantasy", "novels"],
+        "response": "Fantasy fans should read 'The Hobbit' by J.R.R. Tolkien or 'The Name of the Wind' by Patrick Rothfuss."
+    },
+    {
+        "id": 212,
+        "tokens": ["mental", "health", "how", "to", "sleep", "better"],
+        "response": "Establishing a consistent sleep schedule and reducing screen time before bed can help."
+    },
+    {
+        "id": 213,
+        "tokens": ["movies", "animated", "films"],
+        "response": "'Up' and 'Spider-Man: Into the Spider-Verse' are excellent animated films."
+    },
+    {
+        "id": 214,
+        "tokens": ["gaming", "open", "world"],
+        "response": "'The Elder Scrolls V: Skyrim' and 'GTA V' are amazing open-world games."
+    },
+    {
+        "id": 215,
+        "tokens": ["fitness", "running", "tips"],
+        "response": "Wear proper shoes, start slow, and stay hydrated while running!"
+    },
+    {
+        "id": 216,
+        "tokens": ["space", "black", "holes"],
+        "response": "Black holes are regions where gravity is so strong that nothing, not even light, can escape!"
+    },
+    {
+        "id": 217,
+        "tokens": ["books", "mystery", "novels"],
+        "response": "Try 'The Da Vinci Code' by Dan Brown or 'Big Little Lies' by Liane Moriarty for mystery."
+    },
+    {
+        "id": 218,
+        "tokens": ["mental", "health", "positivity"],
+        "response": "Surround yourself with positive people and focus on things you're grateful for."
+    },
+    {
+        "id": 219,
+        "tokens": ["fitness", "diet", "what", "to", "eat", "after", "exercise"],
+        "response": "After exercising, eat protein-rich foods like eggs or chicken and carbs like rice or potatoes to refuel."
+    },
+    {
+        "id": 220,
+        "tokens": ["movies", "family", "friendly", "films"],
+        "response": "'Finding Nemo' and 'The Incredibles' are perfect for family movie nights!"
+    },
+    {
+        "id": 221,
+        "tokens": ["gaming", "racing", "games"],
+        "response": "'Forza Horizon' and 'Mario Kart' are great options for racing game fans!"
+    },
+    {
+        "id": 222,
+        "tokens": ["technology", "robots", "automation"],
+        "response": "Robots and automation are making industries more efficient. What interests you about them?"
+    },
+    {
+        "id": 223,
+        "tokens": ["books", "biographies", "recommendations"],
+        "response": "For biographies, try 'Steve Jobs' by Walter Isaacson or 'Becoming' by Michelle Obama."
+    },
+    {
+        "id": 224,
+        "tokens": ["mental", "health", "anxiety", "how", "to", "cope"],
+        "response": "Try grounding techniques like the 5-4-3-2-1 method or talking to someone you trust."
+    },
+    {
+        "id": 225,
+        "tokens": ["fitness", "home", "equipment"],
+        "response": "Invest in dumbbells, a yoga mat, and resistance bands for an effective home workout setup."
+    },
+    {
+        "id": 226,
+        "tokens": ["space", "facts", "solar", "system"],
+        "response": "Did you know Saturn's moon Titan has rivers, lakes, and seas of liquid methane?"
+    },
+    {
+        "id": 227,
+        "tokens": ["movies", "classic", "hollywood", "films"],
+        "response": "Classic Hollywood films like 'Gone with the Wind' or 'Casablanca' never go out of style."
+    },
+    {
+        "id": 228,
+        "tokens": ["gaming", "indie", "games"],
+        "response": "'Stardew Valley' and 'Hollow Knight' are amazing indie games with unique charm."
+    },
+    {
+        "id": 229,
+        "tokens": ["hobbies", "how", "to", "find", "one"],
+        "response": "Think about what excites you—writing, cooking, or even hiking could be a great start!"
+    },
+    {
+        "id": 230,
+        "tokens": ["technology", "future", "trends"],
+        "response": "Future trends include quantum computing, AI-driven healthcare, and renewable energy breakthroughs."
+    },
+    {
+        "id": 231,
+        "tokens": ["fitness", "how", "to", "lose", "weight"],
+        "response": "Combine a balanced diet with regular exercise, focusing on consistency rather than quick fixes."
+    },
+    {
+        "id": 232,
+        "tokens": ["space", "interesting", "facts"],
+        "response": "Did you know Venus rotates so slowly that a day is longer than a year on the planet?"
+    },
+    {
+        "id": 233,
+        "tokens": ["books", "self", "help"],
+        "response": "Self-help classics like 'How to Win Friends and Influence People' by Dale Carnegie are life-changing."
+    },
+    {
+        "id": 234,
+        "tokens": ["mental", "health", "mindfulness"],
+        "response": "Mindfulness exercises like focusing on your breath can help calm your mind and improve focus."
+    },
+    {
+        "id": 235,
+        "tokens": ["movies", "science", "fiction", "recommendations"],
+        "response": "'Blade Runner 2049' and 'Arrival' are must-watches for sci-fi fans!"
+    },
+    {
+        "id": 236,
+        "tokens": ["gaming", "first", "person", "shooters"],
+        "response": "'Call of Duty' and 'Overwatch' are fantastic first-person shooters to try."
+    },
+    {
+        "id": 237,
+        "tokens": ["technology", "wearables"],
+        "response": "Wearable tech like smartwatches and fitness trackers is becoming more advanced every year."
+    },
+    {
+        "id": 238,
+        "tokens": ["fitness", "outdoor", "activities"],
+        "response": "Outdoor activities like hiking, cycling, and swimming are fun ways to stay active."
+    },
+    {
+        "id": 239,
+        "tokens": ["hobbies", "for", "introverts"],
+        "response": "Journaling, gardening, and painting are great hobbies for introverts to explore."
+    },
+    {
+        "id": 240,
+        "tokens": ["travel", "cultural", "destinations"],
+        "response": "Immerse yourself in culture by visiting Kyoto in Japan or Istanbul in Turkey!"
+    },
+    {
+        "id": 241,
+        "tokens": ["mental", "health", "stress", "relief"],
+        "response": "Walking in nature and practicing gratitude can greatly reduce stress."
+    },
+    {
+        "id": 242,
+        "tokens": ["books", "adventure", "stories"],
+        "response": "For adventure stories, try 'The Call of the Wild' by Jack London or 'Life of Pi' by Yann Martel."
+    },
+    {
+        "id": 243,
+        "tokens": ["movies", "comedy"],
+        "response": "Looking for laughs? Try 'Superbad' or 'The Grand Budapest Hotel.'"
+    },
+    {
+        "id": 244,
+        "tokens": ["gaming", "role", "playing", "games"],
+        "response": "'The Witcher 3' and 'Final Fantasy XV' are incredible RPGs to explore."
+    },
+    {
+        "id": 245,
+        "tokens": ["fitness", "how", "to", "start"],
+        "response": "Start by setting small goals, like walking 15 minutes a day, and build up gradually."
+    },
+    {
+        "id": 246,
+        "tokens": ["technology", "blockchain"],
+        "response": "Blockchain technology is transforming industries like finance, supply chains, and healthcare."
+    },
+    {
+        "id": 247,
+        "tokens": ["mental", "health", "importance"],
+        "response": "Mental health is as important as physical health. Take time to care for your mind every day."
+    },
+    {
+        "id": 248,
+        "tokens": ["space", "life", "on", "other", "planets"],
+        "response": "The search for extraterrestrial life continues. Mars and Europa are strong candidates for exploration."
+    },
+    {
+        "id": 249,
+        "tokens": ["books", "classics"],
+        "response": "'To Kill a Mockingbird' by Harper Lee and 'Pride and Prejudice' by Jane Austen are must-reads."
+    },
+    {
+        "id": 250,
+        "tokens": ["movies", "crime", "thrillers"],
+        "response": "'The Departed' and 'Seven' are gripping crime thrillers that keep you on the edge of your seat."
+    },
+    {
+        "id": 251,
+        "tokens": ["gaming", "sandbox", "games"],
+        "response": "'Minecraft' and 'Terraria' let you create and explore endless worlds at your pace."
+    },
+    {
+        "id": 252,
+        "tokens": ["fitness", "how", "to", "stay", "motivated"],
+        "response": "Set clear goals, track your progress, and reward yourself for staying consistent!"
+    },
+    {
+        "id": 253,
+        "tokens": ["technology", "future", "gadgets"],
+        "response": "In the future, expect to see AI-powered glasses, more efficient drones, and even flying cars!"
+    },
+    {
+        "id": 254,
+        "tokens": ["hobbies", "creative", "writing"],
+        "response": "Creative writing is a great hobby! Start with short stories or journaling your thoughts."
+    },
+    {
+        "id": 255,
+        "tokens": ["hobbies", "photography", "taking", "photos"],
+        "response": "Photography is a fantastic hobby! Do you prefer landscapes, portraits, or something else?"
+    },
+    {
+        "id": 256,
+        "tokens": ["hobbies", "writing", "stories", "novels"],
+        "response": "Writing can be so fulfilling! Are you working on a novel or perhaps short stories?"
+    },
+    {
+        "id": 257,
+        "tokens": ["hobbies", "drawing", "sketching", "art"],
+        "response": "Sketching is a great way to express creativity. Do you work with pencils or try digital art?"
+    },
+    {
+        "id": 258,
+        "tokens": ["hobbies", "gardening", "plants", "flowers"],
+        "response": "Gardening is so rewarding! Do you grow vegetables, flowers, or houseplants?"
+    },
+    {
+        "id": 259,
+        "tokens": ["hobbies", "cooking", "recipes", "food"],
+        "response": "Cooking is a wonderful skill! What’s your favorite dish to prepare?"
+    },
+    {
+        "id": 260,
+        "tokens": ["hobbies", "baking", "cakes", "cookies"],
+        "response": "Baking is both fun and delicious! Do you prefer making cakes, bread, or cookies?"
+    },
+    {
+        "id": 261,
+        "tokens": ["hobbies", "playing", "music", "instruments"],
+        "response": "Playing music is a joy! What instrument do you play, or are you learning one?"
+    },
+    {
+        "id": 262,
+        "tokens": ["hobbies", "sports", "outdoors", "active"],
+        "response": "Sports are such a great way to stay active! Do you play team sports or enjoy solo activities?"
+    },
+    {
+        "id": 263,
+        "tokens": ["hobbies", "cycling", "biking", "outdoors"],
+        "response": "Cycling is amazing for fitness and exploring nature. Do you ride on roads or trails?"
+    },
+    {
+        "id": 264,
+        "tokens": ["hobbies", "hiking", "trails", "outdoor", "activities"],
+        "response": "Hiking is a great way to connect with nature. Do you have a favorite trail or park?"
+    },
+    {
+        "id": 265,
+        "tokens": ["hobbies", "swimming", "water", "sports"],
+        "response": "Swimming is a great full-body workout! Do you prefer pools, lakes, or the ocean?"
+    },
+    {
+        "id": 266,
+        "tokens": ["hobbies", "traveling", "adventures", "exploring"],
+        "response": "Traveling broadens horizons! Are you planning your next adventure or reminiscing about past trips?"
+    },
+    {
+        "id": 267,
+        "tokens": ["hobbies", "knitting", "crochet", "yarn"],
+        "response": "Knitting and crochet are so creative! Are you working on a scarf, blanket, or something else?"
+    },
+    {
+        "id": 268,
+        "tokens": ["hobbies", "gaming", "video", "games"],
+        "response": "Gaming is such a fun hobby! What kinds of games do you enjoy—action, strategy, or RPGs?"
+    },
+    {
+        "id": 269,
+        "tokens": ["hobbies", "reading", "books", "literature"],
+        "response": "Reading is wonderful! Do you prefer fiction, non-fiction, or a specific genre like fantasy or mystery?"
+    },
+    {
+        "id": 270,
+        "tokens": ["hobbies", "fishing", "outdoors", "relaxing"],
+        "response": "Fishing is so relaxing! Do you fish in rivers, lakes, or the ocean?"
+    },
+    {
+        "id": 271,
+        "tokens": ["hobbies", "camping", "outdoors", "nature"],
+        "response": "Camping is a great way to disconnect. Do you prefer tents, RVs, or cabin stays?"
+    },
+    {
+        "id": 272,
+        "tokens": ["hobbies", "birdwatching", "birds", "nature"],
+        "response": "Birdwatching is so calming! Do you have a favorite bird or spot to watch them?"
+    },
+    {
+        "id": 273,
+        "tokens": ["hobbies", "sewing", "crafting", "designing"],
+        "response": "Sewing is both practical and creative! Are you making clothes, accessories, or home decor?"
+    },
+    {
+        "id": 274,
+        "tokens": ["hobbies", "acting", "theater", "performing"],
+        "response": "Acting is such an expressive hobby! Are you into theater, film, or improv?"
+    },
+    {
+        "id": 275,
+        "tokens": ["hobbies", "filmmaking", "videos", "editing"],
+        "response": "Filmmaking is so creative! Are you working on short films, documentaries, or something else?"
+    },
+    {
+        "id": 276,
+        "tokens": ["hobbies", "model", "building", "miniatures"],
+        "response": "Model building is so intricate and rewarding! Are you working on vehicles, trains, or fantasy figures?"
+    },
+    {
+        "id": 277,
+        "tokens": ["hobbies", "coding", "programming", "creating"],
+        "response": "Coding is a powerful skill! Are you building websites, apps, or exploring data science?"
+    },
+    {
+        "id": 278,
+        "tokens": ["hobbies", "calligraphy", "writing", "letters"],
+        "response": "Calligraphy is so elegant! Do you work with traditional pens or brush lettering?"
+    },
+    {
+        "id": 279,
+        "tokens": ["hobbies", "magic", "tricks", "performing"],
+        "response": "Magic tricks are always impressive! Do you enjoy card tricks or illusions?"
+    },
+    {
+        "id": 280,
+        "tokens": ["hobbies", "martial", "arts", "self", "defense"],
+        "response": "Martial arts are great for fitness and discipline! Do you practice karate, taekwondo, or something else?"
+    },
+    {
+        "id": 281,
+        "tokens": ["hobbies", "scuba", "diving", "underwater", "exploration"],
+        "response": "Scuba diving is breathtaking! Have you explored coral reefs or underwater wrecks?"
+    },
+    {
+        "id": 282,
+        "tokens": ["hobbies", "surfing", "ocean", "sports"],
+        "response": "Surfing is exhilarating! Are you catching waves on a shortboard or longboard?"
+    },
+    {
+        "id": 283,
+        "tokens": ["hobbies", "woodworking", "crafting", "furniture"],
+        "response": "Woodworking is so satisfying! Are you building furniture, decor, or something functional?"
+    },
+    {
+        "id": 284,
+        "tokens": ["hobbies", "robotics", "building", "robots"],
+        "response": "Robotics combines creativity and engineering! Are you building for competitions or personal projects?"
+    },
+    {
+        "id": 285,
+        "tokens": ["hobbies", "collecting", "stamps", "coins"],
+        "response": "Collecting is so fascinating! Do you focus on rare stamps, coins, or something else?"
+    },
+    {
+        "id": 286,
+        "tokens": ["hobbies", "cosplay", "costumes", "design"],
+        "response": "Cosplay is such a creative outlet! Are you working on a new costume for an event?"
+    },
+    {
+        "id": 287,
+        "tokens": ["hobbies", "geocaching", "outdoors", "adventures"],
+        "response": "Geocaching is like a treasure hunt! Have you found any exciting spots recently?"
+    },
+    {
+        "id": 288,
+        "tokens": ["hobbies", "volunteering", "community", "service"],
+        "response": "Volunteering is so meaningful! What kind of causes do you enjoy supporting?"
+    },
+    {
+        "id": 289,
+        "tokens": ["hobbies", "puzzles", "solving", "logic"],
+        "response": "Puzzles are great for keeping the mind sharp! Are you into crosswords, Sudoku, or jigsaw puzzles?"
+    },
+    {
+        "id": 290,
+        "tokens": ["hobbies", "dancing", "performing", "choreography"],
+        "response": "Dancing is so expressive! Do you enjoy salsa, hip-hop, or ballet?"
+    },
+    {
+        "id": 291,
+        "tokens": ["hobbies", "whittling", "carving", "wood", "knife"],
+        "response": "Whittling is such a peaceful hobby! What kinds of objects do you enjoy carving?"
+    },
+    {
+        "id": 292,
+        "tokens": ["hobbies", "fencing", "sword", "sport"],
+        "response": "Fencing is a unique and elegant sport! Do you practice foil, epee, or saber?"
+    },
+    {
+        "id": 293,
+        "tokens": ["hobbies", "knot", "tying", "ropes"],
+        "response": "Knot tying is such a useful skill! Are you into decorative knots or practical ones like for sailing?"
+    },
+    {
+        "id": 294,
+        "tokens": ["hobbies", "metal", "detecting", "treasure"],
+        "response": "Metal detecting is like modern treasure hunting! Have you found anything interesting recently?"
+    },
+    {
+        "id": 295,
+        "tokens": ["hobbies", "bonsai", "tree", "trimming"],
+        "response": "Bonsai is such a delicate art! How long have you been cultivating your trees?"
+    },
+    {
+        "id": 296,
+        "tokens": ["hobbies", "bee", "keeping", "honey"],
+        "response": "Beekeeping is such an important and fascinating hobby! How many hives do you have?"
+    },
+    {
+        "id": 297,
+        "tokens": ["hobbies", "parkour", "free", "running"],
+        "response": "Parkour is so thrilling! Do you enjoy practicing flips, vaults, or wall runs?"
+    },
+    {
+        "id": 298,
+        "tokens": ["hobbies", "model", "rocketry", "launching"],
+        "response": "Model rocketry is out of this world! Have you built and launched your own rockets?"
+    },
+    {
+        "id": 299,
+        "tokens": ["hobbies", "tatting", "lace", "making"],
+        "response": "Tatting is such a beautiful craft! Do you make doilies, jewelry, or lace for clothing?"
+    },
+    {
+        "id": 300,
+        "tokens": ["hobbies", "antique", "collecting", "rare", "items"],
+        "response": "Antique collecting is like holding history in your hands! Do you focus on furniture, art, or something else?"
+    },
+    {
+        "id": 301,
+        "tokens": ["hobbies", "urban", "exploration", "abandoned", "places"],
+        "response": "Urban exploration is so adventurous! Have you discovered any fascinating abandoned locations?"
+    },
+    {
+        "id": 302,
+        "tokens": ["hobbies", "leather", "crafting", "tools"],
+        "response": "Leather crafting is both practical and creative! Do you make wallets, belts, or bags?"
+    },
+    {
+        "id": 303,
+        "tokens": ["hobbies", "taxidermy", "animals", "preservation"],
+        "response": "Taxidermy is such an intricate art! Do you focus on birds, mammals, or other animals?"
+    },
+    {
+        "id": 304,
+        "tokens": ["hobbies", "lapidary", "gem", "stone", "cutting"],
+        "response": "Lapidary is a mesmerizing hobby! Do you create jewelry or display stones you've polished?"
+    },
+    {
+        "id": 305,
+        "tokens": ["hobbies", "foraging", "wild", "edible", "plants"],
+        "response": "Foraging connects us with nature! What wild plants or mushrooms have you collected?"
+    },
+    {
+        "id": 306,
+        "tokens": ["hobbies", "lock", "picking", "practice"],
+        "response": "Lock picking is a fascinating skill! Do you practice on old locks or modern ones?"
+    },
+    {
+        "id": 307,
+        "tokens": ["hobbies", "pyrography", "wood", "burning", "art"],
+        "response": "Pyrography creates such stunning designs! What kind of woodburning projects are you working on?"
+    },
+    {
+        "id": 308,
+        "tokens": ["hobbies", "cheese", "making", "dairy"],
+        "response": "Cheese making is both fun and tasty! Are you making soft cheeses like mozzarella or aged ones like cheddar?"
+    },
+    {
+        "id": 309,
+        "tokens": ["hobbies", "candle", "making", "crafting"],
+        "response": "Candle making is so satisfying! Do you create scented candles or experiment with unique molds?"
+    },
+    {
+        "id": 310,
+        "tokens": ["hobbies", "stone", "skipping", "throwing"],
+        "response": "Stone skipping is such a fun activity! What’s your personal record for skips?"
+    },
+    {
+        "id": 311,
+        "tokens": ["hobbies", "herping", "reptile", "searching"],
+        "response": "Herping is fascinating! Have you spotted any unique snakes, frogs, or lizards recently?"
+    },
+    {
+        "id": 312,
+        "tokens": ["hobbies", "origami", "paper", "folding"],
+        "response": "Origami is such a relaxing art! What’s the most complex shape you’ve folded so far?"
+    },
+    {
+        "id": 313,
+        "tokens": ["hobbies", "competitive", "yo-yoing"],
+        "response": "Yo-yoing is such a cool skill! Are you practicing loops, tricks, or freestyle yo-yoing?"
+    },
+    {
+        "id": 314,
+        "tokens": ["hobbies", "fermentation", "kimchi", "kombucha"],
+        "response": "Fermentation is an ancient and tasty hobby! Are you fermenting veggies, kombucha, or sourdough?"
+    },
+    {
+        "id": 315,
+        "tokens": ["hobbies", "zine", "making", "self", "publishing"],
+        "response": "Zine making is so creative! What themes or topics do your zines explore?"
+    },
+    {
+        "id": 316,
+        "tokens": ["hobbies", "telescope", "stargazing", "astronomy"],
+        "response": "Stargazing is awe-inspiring! Have you spotted any constellations or planets recently?"
+    },
+    {
+        "id": 317,
+        "tokens": ["hobbies", "kite", "flying"],
+        "response": "Kite flying is such a joyful pastime! Do you make your own kites or buy unique designs?"
+    },
+    {
+        "id": 318,
+        "tokens": ["hobbies", "card", "throwing"],
+        "response": "Card throwing is such a cool trick! Can you hit targets with precision?"
+    },
+    {
+        "id": 319,
+        "tokens": ["hobbies", "brewing", "craft", "beer"],
+        "response": "Homebrewing is such a satisfying craft! Are you experimenting with lagers, ales, or stouts?"
+    },
+    {
+        "id": 320,
+        "tokens": ["hobbies", "soap", "making", "crafting"],
+        "response": "Soap making is both fun and practical! Do you experiment with scents and natural ingredients?"
+    },
+    {
+        "id": 321,
+        "tokens": ["travel", "where", "should", "i", "go", "next"],
+        "response": "How about visiting Iceland for its breathtaking landscapes or Japan for its rich culture?"
+    },
+    {
+        "id": 322,
+        "tokens": ["food", "what", "should", "i", "eat"],
+        "response": "How about trying something new? Maybe sushi, tacos, or a delicious bowl of ramen!"
+    },
+    {
+        "id": 323,
+        "tokens": ["movies", "what", "are", "the", "best", "to", "watch"],
+        "response": "If you're in the mood for action, try 'John Wick.' For drama, 'The Pursuit of Happyness' is amazing."
+    },
+    {
+        "id": 324,
+        "tokens": ["books", "what", "is", "a", "good", "book", "to", "read"],
+        "response": "'The Midnight Library' by Matt Haig or 'Atomic Habits' by James Clear are fantastic reads!"
+    },
+    {
+        "id": 325,
+        "tokens": ["future", "what", "will", "happen"],
+        "response": "The future is full of possibilities! Innovations in AI, space exploration, and green tech are on the horizon."
+    },
+    {
+        "id": 326,
+        "tokens": ["music", "what", "should", "i", "listen", "to"],
+        "response": "If you like pop, try Taylor Swift. For something chill, Lo-Fi beats are always a good choice!"
+    },
+    {
+        "id": 327,
+        "tokens": ["space", "what", "is", "beyond", "the", "stars"],
+        "response": "Beyond the stars lies an endless expanse of galaxies, black holes, and maybe even other life forms!"
+    },
+    {
+        "id": 328,
+        "tokens": ["history", "tell", "me", "something", "interesting"],
+        "response": "Did you know Napoleon was once attacked by a horde of rabbits during a hunting trip?"
+    },
+    {
+        "id": 329,
+        "tokens": ["health", "how", "can", "i", "be", "healthier"],
+        "response": "Start with a balanced diet, regular exercise, and plenty of sleep. Small steps make a big difference!"
+    },
+    {
+        "id": 330,
+        "tokens": ["dreams", "why", "do", "we", "dream"],
+        "response": "Dreams are still a mystery, but some believe they help process emotions and memories."
+    },
+    {
+        "id": 331,
+        "tokens": ["technology", "what", "is", "the", "latest", "tech"],
+        "response": "The latest tech includes AI-driven assistants, foldable phones, and breakthroughs in quantum computing."
+    },
+    {
+        "id": 332,
+        "tokens": ["science", "what", "is", "a", "recent", "discovery"],
+        "response": "Scientists recently found evidence of water on the Moon, which could support future space exploration!"
+    },
+    {
+        "id": 333,
+        "tokens": ["relationships", "how", "to", "improve"],
+        "response": "Good communication, patience, and spending quality time together can strengthen any relationship."
+    },
+    {
+        "id": 334,
+        "tokens": ["stress", "how", "can", "i", "relieve", "stress"],
+        "response": "Try deep breathing exercises, meditation, or even a short walk in nature to clear your mind."
+    },
+    {
+        "id": 335,
+        "tokens": ["learning", "how", "to", "learn", "better"],
+        "response": "Use active recall, take breaks, and find ways to apply what you're learning to make it stick!"
+    },
+    {
+        "id": 336,
+        "tokens": ["money", "how", "can", "i", "save"],
+        "response": "Start by tracking your expenses, cutting unnecessary costs, and setting a monthly savings goal."
+    },
+    {
+        "id": 337,
+        "tokens": ["fun", "tell", "me", "something", "fun"],
+        "response": "Did you know octopuses have three hearts and blue blood? How cool is that?"
+    },
+    {
+        "id": 338,
+        "tokens": ["climate", "how", "can", "i", "help", "the", "environment"],
+        "response": "You can help by recycling, using less plastic, and conserving energy whenever possible!"
+    },
+    {
+        "id": 339,
+        "tokens": ["sports", "what", "is", "a", "good", "sport", "to", "play"],
+        "response": "Soccer is great for teamwork, while tennis is fun if you want a solo challenge!"
+    },
+    {
+        "id": 340,
+        "tokens": ["universe", "what", "is", "it", "made", "of"],
+        "response": "The universe is made up of ordinary matter, dark matter, and dark energy—all mysterious and fascinating!"
+    },
+    {
+        "id": 341,
+        "tokens": ["movies", "what", "is", "the", "scariest", "film"],
+        "response": "If you like horror, 'The Exorcist' and 'Hereditary' are among the scariest movies ever made."
+    },
+    {
+        "id": 342,
+        "tokens": ["food", "what", "is", "the", "best", "cuisine"],
+        "response": "It depends on your taste! Italian, Japanese, and Mexican cuisines are loved worldwide."
+    },
+    {
+        "id": 343,
+        "tokens": ["travel", "what", "are", "the", "best", "hidden", "gems"],
+        "response": "How about exploring Slovenia's Lake Bled or the stunning Faroe Islands for something unique?"
+    },
+    {
+        "id": 344,
+        "tokens": ["books", "what", "is", "a", "classic", "to", "read"],
+        "response": "'Pride and Prejudice' by Jane Austen or '1984' by George Orwell are timeless classics."
+    },
+    {
+        "id": 345,
+        "tokens": ["dreams", "what", "do", "they", "mean"],
+        "response": "Dreams can reflect your thoughts and emotions or just be your brain's way of organizing information."
+    },
+    {
+        "id": 346,
+        "tokens": ["technology", "what", "is", "the", "future"],
+        "response": "The future of tech involves AI, renewable energy, autonomous vehicles, and even space colonization!"
+    },
+    {
+        "id": 347,
+        "tokens": ["science", "what", "is", "interesting"],
+        "response": "Did you know a teaspoon of a neutron star would weigh billions of tons? Fascinating!"
+    },
+    {
+        "id": 348,
+        "tokens": ["relationships", "what", "makes", "them", "strong"],
+        "response": "Trust, communication, and mutual respect are the foundations of any strong relationship."
+    },
+    {
+        "id": 349,
+        "tokens": ["health", "how", "can", "i", "improve", "fitness"],
+        "response": "Combine a healthy diet with regular exercise like jogging, cycling, or yoga for the best results."
+    },
+    {
+        "id": 350,
+        "tokens": ["space", "why", "is", "the", "sky", "blue"],
+        "response": "The sky appears blue because of the way Earth's atmosphere scatters sunlight—shorter blue wavelengths scatter more!"
+    },
+    {
+        "id": 351,
+        "tokens": ["food", "what", "is", "a", "healthy", "snack"],
+        "response": "A handful of almonds, Greek yogurt with berries, or sliced veggies with hummus are great healthy snack options!"
+    },
+    {
+        "id": 352,
+        "tokens": ["movies", "what", "is", "the", "funniest", "film"],
+        "response": "'Step Brothers' and 'Airplane!' are hilarious comedies that are sure to make you laugh!"
+    },
+    {
+        "id": 353,
+        "tokens": ["books", "what", "are", "the", "best", "fantasy", "series"],
+        "response": "'The Lord of the Rings' by J.R.R. Tolkien and 'A Song of Ice and Fire' by George R.R. Martin are must-reads for fantasy fans."
+    },
+    {
+        "id": 354,
+        "tokens": ["music", "who", "is", "a", "great", "artist"],
+        "response": "Artists like Adele, Ed Sheeran, and Billie Eilish are widely loved for their unique styles and incredible talent."
+    },
+    {
+        "id": 355,
+        "tokens": ["travel", "what", "is", "the", "best", "city"],
+        "response": "It depends on what you love! For culture, Paris is amazing. For adventure, Cape Town is breathtaking."
+    },
+    {
+        "id": 356,
+        "tokens": ["technology", "how", "does", "ai", "work"],
+        "response": "AI works by using algorithms and data to simulate human intelligence, enabling tasks like learning and problem-solving."
+    },
+    {
+        "id": 357,
+        "tokens": ["health", "how", "to", "build", "a", "routine"],
+        "response": "Start small by setting a wake-up time, planning meals, and dedicating a few minutes to exercise each day."
+    },
+    {
+        "id": 358,
+        "tokens": ["space", "what", "is", "a", "black", "hole"],
+        "response": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape."
+    },
+    {
+        "id": 359,
+        "tokens": ["history", "what", "is", "an", "amazing", "fact"],
+        "response": "Did you know Cleopatra lived closer in time to the invention of the iPhone than to the construction of the Great Pyramid?"
+    },
+    {
+        "id": 360,
+        "tokens": ["dreams", "can", "they", "predict", "the", "future"],
+        "response": "There’s no scientific proof, but some believe dreams can reflect your subconscious thoughts about the future."
+    },
+    {
+        "id": 361,
+        "tokens": ["money", "how", "to", "invest", "wisely"],
+        "response": "Start with index funds, diversify your portfolio, and avoid making emotional decisions while investing."
+    },
+    {
+        "id": 362,
+        "tokens": ["fun", "what", "is", "a", "fun", "activity"],
+        "response": "Try indoor rock climbing, going to an escape room, or having a game night with friends!"
+    },
+    {
+        "id": 363,
+        "tokens": ["climate", "how", "to", "reduce", "carbon", "footprint"],
+        "response": "You can reduce your carbon footprint by using public transport, eating less meat, and conserving energy at home."
+    },
+    {
+        "id": 364,
+        "tokens": ["sports", "what", "is", "a", "unique", "sport"],
+        "response": "How about trying curling, bouldering, or even underwater hockey for something different?"
+    },
+    {
+        "id": 365,
+        "tokens": ["health", "what", "are", "superfoods"],
+        "response": "Superfoods like blueberries, spinach, and salmon are packed with nutrients and great for overall health."
+    },
+    {
+        "id": 366,
+        "tokens": ["science", "what", "is", "dark", "matter"],
+        "response": "Dark matter makes up about 27% of the universe, but scientists still don't know exactly what it is!"
+    },
+    {
+        "id": 367,
+        "tokens": ["movies", "what", "are", "the", "best", "thrillers"],
+        "response": "'The Silence of the Lambs' and 'Gone Girl' are incredible thrillers you won't want to miss!"
+    },
+    {
+        "id": 368,
+        "tokens": ["music", "what", "are", "good", "genres"],
+        "response": "If you like variety, explore genres like jazz, electronic, or even classical for something new."
+    },
+    {
+        "id": 369,
+        "tokens": ["books", "what", "is", "the", "most", "influential"],
+        "response": "'1984' by George Orwell and 'The Catcher in the Rye' by J.D. Salinger are among the most influential books of all time."
+    },
+    {
+        "id": 370,
+        "tokens": ["space", "why", "do", "planets", "orbit", "stars"],
+        "response": "Planets orbit stars because of the gravitational pull between the two, creating a stable system."
+    },
+    {
+        "id": 371,
+        "tokens": ["relationships", "how", "to", "make", "new", "friends"],
+        "response": "Join groups with shared interests, attend events, or start conversations with people around you!"
+    },
+    {
+        "id": 372,
+        "tokens": ["history", "what", "is", "a", "fascinating", "event"],
+        "response": "The Moon landing in 1969 was one of the most historic and inspiring events of the 20th century."
+    },
+    {
+        "id": 373,
+        "tokens": ["dreams", "why", "do", "we", "forget", "them"],
+        "response": "Dreams are stored in short-term memory, so unless you recall them immediately, they often fade quickly."
+    },
+    {
+        "id": 374,
+        "tokens": ["food", "what", "is", "a", "popular", "dessert"],
+        "response": "Cheesecake, chocolate lava cake, and tiramisu are some of the most popular desserts worldwide!"
+    },
+    {
+        "id": 375,
+        "tokens": ["fun", "tell", "me", "a", "fun", "fact"],
+        "response": "Did you know sloths can hold their breath longer than dolphins? They can last up to 40 minutes!"
+    },
+    {
+        "id": 376,
+        "tokens": ["money", "what", "is", "a", "smart", "investment"],
+        "response": "Real estate, index funds, and ETFs are great long-term investment options to consider."
+    },
+    {
+        "id": 377,
+        "tokens": ["science", "what", "is", "the", "speed", "of", "light"],
+        "response": "The speed of light is about 299,792 kilometers per second—nothing in the universe is faster!"
+    },
+    {
+        "id": 378,
+        "tokens": ["health", "how", "to", "stay", "hydrated"],
+        "response": "Drink plenty of water throughout the day and include hydrating foods like cucumbers and watermelons in your diet."
+    },
+    {
+        "id": 379,
+        "tokens": ["travel", "what", "are", "beautiful", "places"],
+        "response": "Santorini in Greece, Banff National Park in Canada, and the Maldives are breathtaking destinations."
+    },
+    {
+        "id": 380,
+        "tokens": ["music", "who", "are", "iconic", "bands"],
+        "response": "The Beatles, Queen, and Led Zeppelin are legendary bands that have shaped music history."
+    },
+    {
+        "id": 381,
+        "tokens": ["space", "what", "is", "a", "supernova"],
+        "response": "A supernova is the explosive death of a star, releasing immense energy and creating elements essential for life!"
+    },
+    {
+        "id": 382,
+        "tokens": ["food", "what", "are", "spicy", "dishes"],
+        "response": "Try spicy dishes like Indian vindaloo curry, Mexican chiles rellenos, or Thai green curry."
+    },
+    {
+        "id": 383,
+        "tokens": ["movies", "what", "is", "a", "classic", "animation"],
+        "response": "'The Lion King' and 'Spirited Away' are timeless animated classics loved by all."
+    },
+    {
+        "id": 384,
+        "tokens": ["books", "what", "are", "great", "nonfiction", "reads"],
+        "response": "'Sapiens' by Yuval Noah Harari and 'Educated' by Tara Westover are insightful nonfiction books."
+    },
+    {
+        "id": 385,
+        "tokens": ["music", "what", "are", "great", "classical", "pieces"],
+        "response": "Beethoven’s 'Moonlight Sonata' and Bach’s 'Air on the G String' are breathtaking classical works."
+    },
+    {
+        "id": 386,
+        "tokens": ["technology", "what", "are", "smart", "gadgets"],
+        "response": "Smart gadgets like the Amazon Echo, Ring doorbell, and Apple Watch are great for everyday convenience."
+    },
+    {
+        "id": 387,
+        "tokens": ["sports", "what", "is", "a", "rare", "sport"],
+        "response": "How about Sepak Takraw, a Southeast Asian sport similar to volleyball but played with the feet?"
+    },
+    {
+        "id": 388,
+        "tokens": ["health", "what", "are", "ways", "to", "boost", "energy"],
+        "response": "Eat energy-boosting foods like bananas, drink water, and get some sunlight to recharge your energy."
+    },
+    {
+        "id": 389,
+        "tokens": ["dreams", "why", "do", "we", "have", "nightmares"],
+        "response": "Nightmares can be caused by stress, anxiety, or even eating too close to bedtime. They’re your brain’s way of processing fear."
+    },
+    {
+        "id": 390,
+        "tokens": ["history", "what", "are", "famous", "inventions"],
+        "response": "The printing press by Gutenberg, the telephone by Bell, and the light bulb by Edison changed the world forever."
+    },
+    {
+        "id": 391,
+        "tokens": ["fun", "what", "are", "weird", "facts"],
+        "response": "Did you know wombat poop is cube-shaped to keep it from rolling away?"
+    },
+    {
+        "id": 392,
+        "tokens": ["money", "what", "are", "ways", "to", "make", "money", "online"],
+        "response": "Freelancing, selling digital products, and starting a YouTube channel are great ways to make money online."
+    },
+    {
+        "id": 393,
+        "tokens": ["science", "what", "is", "quantum", "mechanics"],
+        "response": "Quantum mechanics studies the behavior of particles at the smallest scales, where the rules of physics get strange!"
+    },
+    {
+        "id": 394,
+        "tokens": ["movies", "what", "are", "great", "family", "films"],
+        "response": "'Finding Nemo' and 'Toy Story' are heartwarming family films that everyone can enjoy."
+    },
+    {
+        "id": 395,
+        "tokens": ["travel", "what", "are", "hidden", "beaches"],
+        "response": "Try Navagio Beach in Greece or Playa del Amor in Mexico for stunning hidden beaches."
+    },
+    {
+        "id": 396,
+        "tokens": ["books", "what", "are", "books", "for", "self", "improvement"],
+        "response": "'Atomic Habits' by James Clear and 'The Power of Now' by Eckhart Tolle are excellent for self-improvement."
+    },
+    {
+        "id": 397,
+        "tokens": ["space", "what", "is", "a", "nebula"],
+        "response": "A nebula is a giant cloud of dust and gas in space, often the birthplace of stars!"
+    },
+    {
+        "id": 398,
+        "tokens": ["health", "what", "is", "a", "balanced", "diet"],
+        "response": "A balanced diet includes plenty of fruits, vegetables, lean proteins, whole grains, and healthy fats."
+    },
+    {
+        "id": 399,
+        "tokens": ["sports", "what", "is", "a", "good", "solo", "sport"],
+        "response": "Tennis, running, and swimming are great solo sports for building skills and staying fit."
+    },
+    {
+        "id": 400,
+        "tokens": ["music", "what", "is", "a", "unique", "genre"],
+        "response": "How about trying Klezmer, a traditional Jewish music genre, or Afrobeat, which blends African and jazz influences?"
+    },
+    {
+        "id": 401,
+        "tokens": ["fun", "what", "are", "cool", "world", "records"],
+        "response": "The longest pizza ever made was over a mile long and took a whole team to bake!"
+    },
+    {
+        "id": 402,
+        "tokens": ["dreams", "why", "do", "they", "feel", "so", "real"],
+        "response": "Dreams feel real because the same parts of your brain activate as they would during real-life experiences."
+    },
+    {
+        "id": 403,
+        "tokens": ["food", "what", "are", "exotic", "fruits"],
+        "response": "Dragon fruit, rambutan, and durian are exotic fruits with unique flavors and textures."
+    },
+    {
+        "id": 404,
+        "tokens": ["history", "what", "are", "the", "oldest", "civilizations"],
+        "response": "The Sumerians, Ancient Egyptians, and Harappans are among the oldest known civilizations."
+    },
+    {
+        "id": 405,
+        "tokens": ["travel", "what", "are", "good", "winter", "destinations"],
+        "response": "Try Lapland in Finland for snow activities or Switzerland for incredible skiing and cozy chalets!"
+    },
+    {
+        "id": 406,
+        "tokens": ["movies", "what", "are", "movies", "about", "ai"],
+        "response": "'Ex Machina' and 'Her' are thought-provoking movies exploring AI and its impact on humanity."
+    },
+    {
+        "id": 407,
+        "tokens": ["money", "how", "to", "budget"],
+        "response": "Track your income and expenses, prioritize needs over wants, and set aside savings each month."
+    },
+    {
+        "id": 408,
+        "tokens": ["science", "what", "is", "a", "wormhole"],
+        "response": "A wormhole is a theoretical shortcut through space-time, potentially connecting distant parts of the universe."
+    },
+    {
+        "id": 409,
+        "tokens": ["fun", "what", "is", "a", "great", "party", "game"],
+        "response": "'Charades' and 'Cards Against Humanity' are always a hit at parties!"
+    },
+    {
+        "id": 410,
+        "tokens": ["music", "what", "is", "ambient", "music"],
+        "response": "Ambient music focuses on creating an atmosphere, often with slow, soothing tones. Great for relaxation!"
+    },
+    {
+        "id": 411,
+        "tokens": ["space", "what", "is", "the", "biggest", "star"],
+        "response": "The largest known star is UY Scuti, which is about 1,700 times the size of our Sun!"
+    },
+    {
+        "id": 412,
+        "tokens": ["food", "what", "are", "easy", "recipes"],
+        "response": "Try pasta with marinara sauce, scrambled eggs, or a simple veggie stir-fry for quick meals."
+    },
+    {
+        "id": 413,
+        "tokens": ["history", "what", "are", "famous", "monuments"],
+        "response": "The Great Wall of China, the Taj Mahal, and the Colosseum are iconic monuments worth exploring."
+    },
+    {
+        "id": 414,
+        "tokens": ["travel", "what", "are", "cheap", "destinations"],
+        "response": "Vietnam, Portugal, and Mexico are beautiful and budget-friendly travel destinations!"
+    },
+    {
+        "id": 415,
+        "tokens": ["science", "what", "are", "the", "laws", "of", "motion"],
+        "response": "Newton's three laws of motion explain how objects move and interact under the influence of forces."
+    },
+    {
+        "id": 416,
+        "tokens": ["space", "what", "is", "the", "farthest", "galaxy"],
+        "response": "The farthest known galaxy is GN-z11, located about 13.4 billion light-years away!"
+    },
+    {
+        "id": 417,
+        "tokens": ["movies", "what", "are", "good", "action", "films"],
+        "response": "'Die Hard' and 'Mad Max: Fury Road' are excellent action-packed films you’ll enjoy!"
+    },
+    {
+        "id": 418,
+        "tokens": ["books", "what", "are", "historical", "novels"],
+        "response": "'All the Light We Cannot See' by Anthony Doerr and 'The Book Thief' by Markus Zusak are great historical reads."
+    },
+    {
+        "id": 419,
+        "tokens": ["music", "who", "are", "iconic", "singers"],
+        "response": "Singers like Frank Sinatra, Whitney Houston, and Aretha Franklin have left a lasting legacy."
+    },
+    {
+        "id": 420,
+        "tokens": ["science", "what", "is", "the", "strongest", "force"],
+        "response": "The strongest force in nature is the strong nuclear force, which holds atomic nuclei together."
+    },
+    {
+        "id": 421,
+        "tokens": ["history", "what", "was", "the", "cold", "war"],
+        "response": "The Cold War was a period of political tension and military rivalry between the USA and the USSR from 1947 to 1991."
+    },
+    {
+        "id": 422,
+        "tokens": ["food", "what", "is", "a", "good", "breakfast"],
+        "response": "A healthy breakfast could include oatmeal with fruit, avocado toast, or a smoothie packed with nutrients."
+    },
+    {
+        "id": 423,
+        "tokens": ["dreams", "can", "we", "control", "dreams"],
+        "response": "Yes! This is called lucid dreaming, where you’re aware you’re dreaming and can even influence the dream."
+    },
+    {
+        "id": 424,
+        "tokens": ["fun", "what", "is", "a", "cool", "hobby"],
+        "response": "How about trying archery, 3D printing, or urban gardening as cool new hobbies?"
+    },
+    {
+        "id": 425,
+        "tokens": ["travel", "what", "are", "unique", "destinations"],
+        "response": "Consider exploring Petra in Jordan or the Salar de Uyuni salt flats in Bolivia for unique experiences."
+    },
+    {
+        "id": 426,
+        "tokens": ["movies", "what", "are", "great", "mystery", "films"],
+        "response": "'Knives Out' and 'The Girl with the Dragon Tattoo' are brilliant mystery films."
+    },
+    {
+        "id": 427,
+        "tokens": ["science", "what", "is", "evolution"],
+        "response": "Evolution is the process by which species change over time through natural selection and genetic variation."
+    },
+    {
+        "id": 428,
+        "tokens": ["music", "what", "are", "relaxing", "genres"],
+        "response": "Genres like Lo-Fi, ambient, and classical are perfect for relaxation and focus."
+    },
+    {
+        "id": 429,
+        "tokens": ["sports", "what", "are", "team", "sports"],
+        "response": "Team sports like soccer, basketball, and volleyball are great for building cooperation and strategy skills."
+    },
+    {
+        "id": 430,
+        "tokens": ["money", "how", "to", "build", "wealth"],
+        "response": "Focus on long-term investments, diversifying your income streams, and living below your means."
+    },
+    {
+        "id": 431,
+        "tokens": ["history", "what", "are", "famous", "kings"],
+        "response": "Famous kings include King Tutankhamun of Egypt, King Louis XIV of France, and King Henry VIII of England."
+    },
+    {
+        "id": 432,
+        "tokens": ["dreams", "why", "do", "we", "dream", "about", "falling"],
+        "response": "Dreams about falling might symbolize insecurity or losing control, but they’re very common and normal!"
+    },
+    {
+        "id": 433,
+        "tokens": ["food", "what", "are", "popular", "street", "foods"],
+        "response": "Tacos in Mexico, samosas in India, and bao buns in China are amazing street food options."
+    },
+    {
+        "id": 434,
+        "tokens": ["travel", "what", "is", "an", "exciting", "road", "trip"],
+        "response": "Driving along Route 66 in the US or the Great Ocean Road in Australia makes for an unforgettable road trip."
+    },
+    {
+        "id": 435,
+        "tokens": ["science", "what", "is", "the", "big", "bang"],
+        "response": "The Big Bang is the leading theory about how the universe began—a massive expansion about 13.8 billion years ago."
+    },
+    {
+        "id": 436,
+        "tokens": ["fun", "what", "are", "unique", "party", "themes"],
+        "response": "Try themes like 1920s Gatsby, space exploration, or a tropical luau for a fun twist!"
+    },
+    {
+        "id": 437,
+        "tokens": ["books", "what", "is", "a", "good", "crime", "novel"],
+        "response": "'The Girl on the Train' by Paula Hawkins and 'The Silence of the Lambs' by Thomas Harris are great crime novels."
+    },
+    {
+        "id": 438,
+        "tokens": ["movies", "what", "are", "heartwarming", "films"],
+        "response": "'The Pursuit of Happyness' and 'Good Will Hunting' are inspiring and heartwarming movies."
+    },
+    {
+        "id": 439,
+        "tokens": ["health", "what", "are", "hydrating", "foods"],
+        "response": "Cucumbers, watermelon, oranges, and celery are great foods to stay hydrated."
+    },
+    {
+        "id": 440,
+        "tokens": ["sports", "what", "are", "good", "sports", "for", "kids"],
+        "response": "Soccer, swimming, and gymnastics are great for kids as they build skills and teamwork."
+    },
+    {
+        "id": 441,
+        "tokens": ["money", "how", "to", "start", "investing"],
+        "response": "Start by setting financial goals, researching index funds, and using beginner-friendly apps like Robinhood or Vanguard."
+    },
+    {
+        "id": 442,
+        "tokens": ["dreams", "what", "does", "flying", "mean"],
+        "response": "Flying dreams often represent freedom or a sense of empowerment—what an uplifting experience!"
+    },
+    {
+        "id": 443,
+        "tokens": ["travel", "what", "are", "great", "nature", "trips"],
+        "response": "Visit Yellowstone National Park in the US or the Amazon Rainforest for incredible nature experiences."
+    },
+    {
+        "id": 444,
+        "tokens": ["science", "what", "is", "a", "solar", "eclipse"],
+        "response": "A solar eclipse happens when the Moon passes between the Earth and the Sun, blocking sunlight temporarily."
+    },
+    {
+        "id": 445,
+        "tokens": ["fun", "what", "is", "a", "fun", "weekend", "activity"],
+        "response": "Try a picnic at the park, visiting a museum, or going on a spontaneous day trip!"
+    },
+    {
+        "id": 446,
+        "tokens": ["books", "what", "are", "great", "young", "adult", "novels"],
+        "response": "'The Hunger Games' by Suzanne Collins and 'The Fault in Our Stars' by John Green are popular YA novels."
+    },
+    {
+        "id": 447,
+        "tokens": ["movies", "what", "are", "great", "biopics"],
+        "response": "'Bohemian Rhapsody' and 'The Theory of Everything' are fantastic biopics about inspiring lives."
+    },
+    {
+        "id": 448,
+        "tokens": ["history", "what", "is", "the", "renaissance"],
+        "response": "The Renaissance was a cultural rebirth in Europe from the 14th to 17th century, marking advancements in art and science."
+    },
+    {
+        "id": 449,
+        "tokens": ["food", "what", "are", "quick", "snacks"],
+        "response": "Peanut butter on toast, yogurt with granola, or a fruit smoothie are easy and quick snacks."
+    },
+    {
+        "id": 450,
+        "tokens": ["sports", "what", "is", "a", "challenging", "sport"],
+        "response": "Rock climbing, triathlons, and rugby are physically demanding sports that challenge both strength and stamina."
+    },
+    {
+        "id": 451,
+        "tokens": ["health", "how", "to", "improve", "posture"],
+        "response": "Practice yoga, strengthen your core, and be mindful of sitting ergonomics to improve posture."
+    },
+    {
+        "id": 452,
+        "tokens": ["space", "what", "is", "a", "comet"],
+        "response": "A comet is a celestial body made of ice, dust, and rock, often forming a glowing tail when near the Sun."
+    },
+    {
+        "id": 453,
+        "tokens": ["money", "how", "to", "build", "an", "emergency", "fund"],
+        "response": "Set aside a small amount from each paycheck in a savings account until you have 3-6 months of expenses saved."
+    },
+    {
+        "id": 454,
+        "tokens": ["music", "what", "are", "modern", "hits"],
+        "response": "Hits like 'Blinding Lights' by The Weeknd or 'Drivers License' by Olivia Rodrigo are currently trending."
+    },
+    {
+        "id": 455,
+        "tokens": ["travel", "what", "is", "a", "fun", "cruise"],
+        "response": "The Caribbean and Mediterranean cruises are popular choices with breathtaking views and activities!"
+    },
+    {
+        "id": 456,
+        "tokens": ["space", "what", "are", "asteroids"],
+        "response": "Asteroids are rocky objects that orbit the Sun, mostly found in the asteroid belt between Mars and Jupiter."
+    },
+    {
+        "id": 457,
+        "tokens": ["movies", "what", "are", "good", "animated", "films"],
+        "response": "'Wall-E' and 'How to Train Your Dragon' are fantastic animated films with heartwarming stories."
+    },
+    {
+        "id": 458,
+        "tokens": ["books", "what", "are", "great", "mystery", "novels"],
+        "response": "'The Hound of the Baskervilles' by Arthur Conan Doyle and 'Big Little Lies' by Liane Moriarty are must-reads."
+    },
+    {
+        "id": 459,
+        "tokens": ["music", "what", "are", "classic", "rock", "bands"],
+        "response": "Bands like Led Zeppelin, The Rolling Stones, and Pink Floyd are iconic in the classic rock genre."
+    },
+    {
+        "id": 460,
+        "tokens": ["history", "what", "was", "the", "industrial", "revolution"],
+        "response": "The Industrial Revolution was a period in the 18th and 19th centuries when machinery transformed industries and society."
+    },
+    {
+        "id": 461,
+        "tokens": ["food", "what", "are", "unique", "world", "cuisines"],
+        "response": "Try Ethiopian injera, Peruvian ceviche, or Korean bibimbap for a taste of unique cuisines!"
+    },
+    {
+        "id": 462,
+        "tokens": ["sports", "what", "are", "water", "sports"],
+        "response": "Water sports like kayaking, windsurfing, and water polo are fun ways to enjoy the water."
+    },
+    {
+        "id": 463,
+        "tokens": ["money", "how", "to", "save", "on", "groceries"],
+        "response": "Plan meals, buy in bulk, and use coupons or discounts to save money on groceries."
+    },
+    {
+        "id": 464,
+        "tokens": ["science", "what", "is", "climate", "change"],
+        "response": "Climate change refers to long-term changes in temperature and weather patterns, often caused by human activities."
+    },
+    {
+        "id": 465,
+        "tokens": ["dreams", "why", "do", "we", "dream", "of", "people"],
+        "response": "Dreaming of people may reflect your thoughts, feelings, or unresolved emotions related to them."
+    },
+    {
+        "id": 466,
+        "tokens": ["fun", "what", "are", "fun", "outdoor", "activities"],
+        "response": "Try hiking, beach volleyball, or stargazing for enjoyable outdoor activities!"
+    },
+    {
+        "id": 467,
+        "tokens": ["travel", "what", "are", "good", "adventure", "trips"],
+        "response": "Consider trekking to Machu Picchu, exploring the Sahara Desert, or whitewater rafting in Costa Rica."
+    },
+    {
+        "id": 468,
+        "tokens": ["books", "what", "are", "great", "poetry", "collections"],
+        "response": "'Milk and Honey' by Rupi Kaur and 'The Sun and Her Flowers' are modern favorites in poetry."
+    },
+    {
+        "id": 469,
+        "tokens": ["movies", "what", "are", "underrated", "films"],
+        "response": "'The Secret Life of Walter Mitty' and 'Moon' are beautifully underrated films worth watching."
+    },
+    {
+        "id": 470,
+        "tokens": ["music", "what", "is", "a", "unique", "instrument"],
+        "response": "How about the theremin, which you play without touching, or the kalimba, an African thumb piano?"
+    },
+    {
+        "id": 471,
+        "tokens": ["sports", "what", "are", "winter", "sports"],
+        "response": "Winter sports like skiing, snowboarding, and ice hockey are exciting ways to enjoy the cold season!"
+    },
+    {
+        "id": 472,
+        "tokens": ["history", "what", "is", "the", "great", "wall", "of", "china"],
+        "response": "The Great Wall of China is a series of fortifications built to protect China, stretching over 13,000 miles."
+    },
+    {
+        "id": 473,
+        "tokens": ["science", "what", "is", "genetics"],
+        "response": "Genetics is the study of genes and heredity, exploring how traits are passed down through generations."
+    },
+    {
+        "id": 474,
+        "tokens": ["health", "how", "to", "improve", "mental", "health"],
+        "response": "Practice mindfulness, connect with loved ones, and seek professional support when needed."
+    },
+    {
+        "id": 475,
+        "tokens": ["money", "what", "are", "low", "risk", "investments"],
+        "response": "Low-risk investments include government bonds, high-yield savings accounts, and certificates of deposit (CDs)."
+    },
+    {
+        "id": 476,
+        "tokens": ["space", "what", "are", "rings", "around", "planets"],
+        "response": "Planetary rings, like Saturn’s, are made of ice, rock, and dust particles orbiting the planet."
+    },
+    {
+        "id": 477,
+        "tokens": ["fun", "what", "are", "good", "board", "games"],
+        "response": "'Catan,' 'Ticket to Ride,' and 'Codenames' are fantastic board games for groups."
+    },
+    {
+        "id": 478,
+        "tokens": ["dreams", "what", "are", "recurring", "dreams"],
+        "response": "Recurring dreams might indicate unresolved issues or emotions that your brain is processing."
+    },
+    {
+        "id": 479,
+        "tokens": ["travel", "what", "is", "a", "beautiful", "island"],
+        "response": "Santorini in Greece and Bora Bora in French Polynesia are stunning islands worth visiting."
+    },
+    {
+        "id": 480,
+        "tokens": ["books", "what", "are", "inspiring", "memoirs"],
+        "response": "'Becoming' by Michelle Obama and 'When Breath Becomes Air' by Paul Kalanithi are deeply inspiring."
+    },
+    {
+        "id": 481,
+        "tokens": ["movies", "what", "are", "films", "about", "space"],
+        "response": "'Interstellar' and 'Gravity' are visually stunning films that explore space and humanity’s connection to it."
+    },
+    {
+        "id": 482,
+        "tokens": ["science", "what", "is", "the", "solar", "system"],
+        "response": "The solar system includes the Sun, eight planets, their moons, and countless smaller objects like asteroids."
+    },
+    {
+        "id": 483,
+        "tokens": ["health", "how", "to", "boost", "immunity"],
+        "response": "Stay active, eat a balanced diet, get enough sleep, and consider vitamin C-rich foods like oranges."
+    },
+    {
+        "id": 484,
+        "tokens": ["sports", "what", "are", "fast", "paced", "sports"],
+        "response": "Basketball, ice hockey, and badminton are fast-paced sports that require quick reflexes and endurance."
+    },
+    {
+        "id": 485,
+        "tokens": ["history", "what", "are", "famous", "empires"],
+        "response": "The Roman Empire, the British Empire, and the Ottoman Empire are among history’s most influential empires."
+    },
+    {
+        "id": 486,
+        "tokens": ["money", "how", "to", "reduce", "debt"],
+        "response": "Focus on paying off high-interest debt first, create a budget, and avoid unnecessary expenses."
+    },
+    {
+        "id": 487,
+        "tokens": ["dreams", "what", "do", "they", "mean", "spiritually"],
+        "response": "Spiritually, dreams can symbolize personal growth, connection, or deeper insights into your subconscious mind."
+    },
+    {
+        "id": 488,
+        "tokens": ["fun", "what", "are", "unique", "things", "to", "try"],
+        "response": "Why not try glassblowing, escape rooms, or even indoor skydiving for something unique and exciting?"
+    },
+    {
+        "id": 489,
+        "tokens": ["space", "what", "is", "a", "satellite"],
+        "response": "A satellite is an object that orbits a planet, like the Moon or artificial satellites used for communication."
+    },
+    {
+        "id": 490,
+        "tokens": ["books", "what", "are", "short", "stories"],
+        "response": "'The Lottery' by Shirley Jackson and 'The Tell-Tale Heart' by Edgar Allan Poe are classic short stories."
+    },
+    {
+        "id": 491,
+        "tokens": ["movies", "what", "are", "great", "adventure", "films"],
+        "response": "'Indiana Jones: Raiders of the Lost Ark' and 'The Goonies' are timeless adventure movies."
+    },
+    {
+        "id": 492,
+        "tokens": ["sports", "what", "is", "a", "good", "outdoor", "sport"],
+        "response": "Ultimate Frisbee, beach volleyball, and trail running are excellent outdoor sports to try."
+    },
+    {
+        "id": 493,
+        "tokens": ["health", "how", "to", "practice", "self", "care"],
+        "response": "Take breaks when needed, prioritize sleep, and do things that bring you joy to practice self-care."
+    },
+    {
+        "id": 494,
+        "tokens": ["science", "what", "is", "artificial", "intelligence"],
+        "response": "Artificial intelligence is a branch of computer science that simulates human intelligence in machines."
+    },
+    {
+        "id": 495,
+        "tokens": ["travel", "what", "are", "unique", "mountains"],
+        "response": "Mount Fuji in Japan and Mount Kilimanjaro in Tanzania are breathtaking mountains to explore."
+    },
+
+    {
+        "id": 496,
+        "tokens": [
+            "f",
+            "f",
+            "d",
+            "f",
+            "f",
+            "d",
+            "f",
+            "f",
+            "d"
+        ],
+        "response": "This AI couldn't answer the question. Support me and visit https://github.com/MateuszKrawczynski/"
+    }
+]
